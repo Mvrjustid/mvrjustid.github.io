@@ -1,70 +1,134 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
+@article{wang2020leveraging,
+  abbr={IMWUT},
+  title={Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data},
+  author={Wang, Chongyang and Gao, Yuan and Mathur, Akhil and Lane, Nicholas D and Bianchi-Berthouze, Nadia},
+  abstract={Protective behavior exhibited by people with chronic pain (CP) during physical activities is very informative to understanding their physical and emotional states. Existing automatic protective behavior detection (PBD) methods rely on pre-segmentation of activities predefined by users. However, in real life, people perform activities casually. Therefore, where those activities present difficulties for people with chronic pain, technology-enabled support should be delivered continuously and automati- cally adapted to activity type and occurrence of protective behavior. Hence, to facilitate ubiquitous CP management, it becomes critical to enable accurate PBD over continuous data. In this paper, we propose to integrate human activity recognition (HAR) with PBD via a novel hierarchical HAR-PBD architecture comprising graph-convolution and long short-term memory (GC-LSTM) networks, and alleviate class imbalances using a class-balanced focal categorical cross-entropy (CFCC) loss. Through in-depth evaluation of the approach using a CP patients’ dataset, we show that the leveraging of HAR, GC-LSTM networks, and CFCC loss leads to clear increase in PBD performance against the baseline (macro F1 score of 0.81 vs. 0.66 and precision-recall area-under-the-curve (PR-AUC) of 0.60 vs. 0.44). We conclude by discussing possible use cases of the hierarchical architecture in CP management and beyond. We also discuss current limitations and ways forward.},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)},
+  year={2021},
+  publisher={ACM},
+  html={https://arxiv.org/pdf/2011.01776.pdf},
+  pdf={Leveraging_Activity_Recognition_to_Enable_Protective_Behavior_Detection_in_Continuous_Data___IMWUT.pdf},
   selected={true}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{wangchronic,
+  abbr={ACM HEALTH},
+  title={Chronic-Pain Protective Behavior Detection with Deep Learning},
+  author={Wang, Chongyang and Olugbade, Temitayo A and Mathur, Akhil and Amanda, C De C and Lane, Nicholas D and Bianchi-Berthouze, Nadia},
+  abstract={In chronic pain rehabilitation, physiotherapists adapt physical activity to patients' performance based on their expression of protective behavior, gradually exposing them to feared but harmless and essential everyday activities. As rehabilitation moves outside the clinic, technology should automatically detect such behavior to provide similar support. Previous works have shown the feasibility of automatic protective behavior detection (PBD) within a specific activity. In this paper, we investigate the use of deep learning for PBD across activity types, using wearable motion capture and surface electromyography data collected from healthy participants and people with chronic pain. We approach the problem by continuously detecting protective behavior within an activity rather than estimating its overall presence. The best performance reaches mean F1 score of 0.82 with leave-one-subject-out cross validation. When protective behavior is modelled per activity type, performance is mean F1 score of 0.77 for bend-down, 0.81 for one-leg-stand, 0.72 for sit-to-stand, 0.83 for stand-to-sit, and 0.67 for reach-forward. This performance reaches excellent level of agreement with the average experts' rating performance suggesting potential for personalized chronic pain management at home. We analyze various parameters characterizing our approach to understand how the results could generalize to other PBD datasets and different levels of ground truth granularity.},
+  journal={ACM Transactions on Computing for Healthcare},
+  year={2021},
+  publisher={ACM},
+  doi={10.1145/3449068},
+  html={https://arxiv.org/pdf/1902.08990.pdf},
+  pdf={1902.08990.pdf},
+  selected={true}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{wangchronic,
+  abbr={IEEE MM},
+  title={Recognizing Micro-expression in Video Clip with Adaptive Key-frame Mining},
+  author={Peng, Min and Wang, Chongyang and Gao, Yuan and Bi, Tao and Chen, Tong and Shi, Yu and Zhou, Xiang-Dong},
+  abstract={As a spontaneous expression of emotion on face, micro-expression reveals the underlying emotion that cannot be controlled by human. In micro-expression, facial movement is transient and sparsely localized through time. However, the existing representation based on various deep learning techniques learned from a full video clip is usually redundant. In addition, methods utilizing the single apex frame of each video clip require expert annotations and sacrifice the temporal dynamics. To simultaneously localize and recognize such fleeting facial movements, we propose a novel end-to-end deep learning architecture, referred to as adaptive key-frame mining network (AKMNet). Operating on the video clip of micro-expression, AKMNet is able to learn discriminative spatio-temporal representation by combining spatial features of self-learned local key frames and their global-temporal dynamics. Theoretical analysis and empirical evaluation show that the proposed approach improved recognition accuracy in comparison with state-of-the-art methods on multiple benchmark datasets.},
+  journal={IEEE Transactions on MultiMeida (In Review)},
+  year={2020},
+  publisher={IEEE},
+  html={https://arxiv.org/pdf/2009.09179.pdf},
+  pdf={2009.09179.pdf},
+  selected={false}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{wangchronic,
+  abbr={Neurocomputing},
+  title={Micro-attention for micro-expression recognition},
+  author={Wang, Chongyang and Peng, Min and Bi, Tao and Chen, Tong},
+  abstract={Micro-expression, for its high objectivity in emotion detection, has emerged to be a promising modality in affective computing. Recently, deep learning methods have been successfully introduced into the micro-expression recognition area. Whilst the higher recognition accuracy achieved, substantial challenges in micro-expression recognition remain. The existence of micro expression in small-local areas on face and limited size of available databases still constrain the recognition accuracy on such emotional facial behavior. In this work, to tackle such challenges, we propose a novel attention mechanism called micro-attention cooperating with residual network. Micro-attention enables the network to learn to focus on facial areas of interest covering different action units. Moreover, coping with small datasets, the micro-attention is designed without adding noticeable parameters while a simple yet efficient transfer learning approach is together utilized to alleviate the overfitting risk. With extensive experimental evaluations on three benchmarks (CASMEII, SAMM and SMIC) and post-hoc feature visualizations, we demonstrate the effectiveness of the proposed micro-attention and push the boundary of automatic recognition of micro-expression.},
+  journal={Neurocomputing},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.neucom.2020.06.005},
+  html={https://www.sciencedirect.com/science/article/abs/pii/S0925231220309711?casa_token=QDb6cXNjGiMAAAAA:D7SgjxSNPzA_AODV18D3QEpMmG2412C6TwtPzS4-KlEQSsl00u6jSNWONPjnQTxAsL2mp-znpQ},
+  pdf={1-s2.0-S0925231220309711-main.pdf},
+  selected={false}
 }
+
+@inproceedings{wang2019recurrent,
+  abbr={Ubicomp/ISWC},
+  title={Recurrent network based automatic detection of chronic pain protective behavior using mocap and semg data},
+  author={Wang, Chongyang and Olugbade, Temitayo A and Mathur, Akhil and De C. Williams, Amanda C and Lane, Nicholas D and Bianchi-Berthouze, Nadia},
+  abstract={In chronic pain physical rehabilitation, physiotherapists adapt exercise sessions according to the movement behavior of patients. As rehabilitation moves beyond clinical sessions, technology is needed to similarly assess movement behaviors and provide such personalized support. In this paper, as a first step, we investigate automatic detection of protective behavior (movement behavior due to pain-related fear or pain) based on wearable motion capture and electromyography sensor data. We investigate two recurrent networks (RNN) referred to as stacked-LSTM and dual-stream LSTM, which we compare with related deep learning (DL) architectures. We further explore data augmentation techniques and additionally analyze the impact of segmentation window lengths on detection performance. The leading performance of 0.815 mean F1 score achieved by stacked-LSTM provides important grounding for the development of wearable technology to support chronic pain physical rehabilitation during daily activities.},
+  booktitle={Proceedings of the 23rd international symposium on wearable computers},
+  year={2019},
+  publisher={ACM},
+  doi={10.1145/3341163.3347728},
+  html={https://dl.acm.org/doi/abs/10.1145/3341163.3347728},
+  pdf={3341163.3347728.pdf},
+  selected={true},
+}
+
+@inproceedings{wang2019learning,
+  abbr={ACII},
+  title={Learning temporal and bodily attention in protective movement behavior detection},
+  author={Wang, Chongyang and Peng, Min and Olugbade, Temitayo A and Lane, Nicholas D and Williams, Amanda C De C and Bianchi-Berthouze, Nadia},
+  abstract={For people with chronic pain, the assessment of protective behavior during physical functioning is essential to understand their subjective pain-related experiences (e.g., fear and anxiety toward pain and injury) and how they deal with such experiences (avoidance or reliance on specific body joints), with the ultimate goal of guiding intervention. Advances in deep learning (DL) can enable the development of such intervention. Using the EmoPain MoCap dataset, we investigate how attention-based DL architectures can be used to improve the detection of protective behavior by capturing the most informative temporal and body configurational cues characterizing specific movements and the strategies used to perform them. We propose an end-to-end deep learning architecture named BodyAttentionNet (BANet). BANet is designed to learn temporal and bodily parts that are more informative to the detection of protective behavior. The approach addresses the variety of ways people execute a movement (including healthy people) independently of the type of movement analyzed. Through extensive comparison experiments with other state-of-the-art machine learning techniques used with motion capture data, we show statistically significant improvements achieved by using these attention mechanisms. In addition, the BANet architecture requires a much lower number of parameters than the state of the art for comparable if not higher performances.},
+  booktitle={8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)},
+  year={2019},
+  doi={10.1109/ACIIW.2019.8925084},
+  html={https://ieeexplore.ieee.org/document/8925084},
+  pdf={08925084.pdf},
+  selected={false},
+}
+
+@inproceedings{peng2019novel,
+  abbr={ACII},
+  title={A novel apex-time network for cross-dataset micro-expression recognition},
+  author={Peng, Min and Wang, Chongyang and Bi, Tao and Shi, Yu and Zhou, Xiangdong and Chen, Tong},
+  abstract={The automatic recognition of micro-expression has been boosted ever since the successful introduction of deep learning approaches. As researchers working on such topics are moving to learn from the nature of micro-expression, the practice of using deep learning techniques has evolved from processing the entire video clip of micro-expression to the recognition on apex frame. Using the apex frame is able to get rid of redundant video frames, but the relevant temporal evidence of micro-expression would be thereby left out. This paper proposes a novel Apex-Time Network (ATNet)to recognize micro-expression based on spatial information from the apex frame as well as on temporal information from the respective-adjacent frames. Through extensive experiments on three benchmarks, we demonstrate the improvement achieved by learning such temporal information. Specially, the model with such temporal information is more robust in cross-dataset validations.},
+  booktitle={8th International Conference on Affective Computing and Intelligent Interaction (ACII)},
+  year={2019},
+  doi={10.1109/ACII.2019.8925525},
+  html={https://ieeexplore.ieee.org/abstract/document/8925525},
+  pdf={08925525.pdf},
+  selected={false},
+}
+
+@inproceedings{peng2018attention,
+  abbr={FG},
+  title={Attention based residual network for micro-gesture recognition},
+  author={Peng, Min and Wang, Chongyang and Chen, Tong},
+  abstract={Finger micro-gesture recognition is increasingly become an important part of human-computer interaction (HCI) in applications of augmented reality (AR) and virtual reality (VR) technologies. To push the boundary of microgesture recognition, a novel Holoscopic 3D Micro-Gesture Database (HoMG) was established for research purpose. HoMG has an image subset and a video subset. This paper is to demonstrate the result achieved on the image subset for Holoscopic Micro-Gesture Recognition Challenge 2018 (HoMGR 2018). The proposed method utilized the state-of-the-art residual network with an attention-involved design. In every block of the network, an attention branch is added to the output of the last convolution layer. The attention branch is designed to spotlight the finger micro-gesture and reduce the noise introduced from the wrist and background. With an extensive analysis on HoMG, the proposed model achieved a recognition accuracy of 80.5% on the validation set and 82.1% on the testing set.},
+  booktitle={13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018)},
+  year={2018},
+  html={https://ieeexplore.ieee.org/abstract/document/8373920},
+  pdf={08373920.pdf},
+  selected={false}
+}
+
+@article{peng2017dual,
+  abbr={Frontiers},
+  title={Dual temporal scale convolutional neural network for micro-expression recognition},
+  author={Peng, Min and Wang, Chongyang and Chen, Tong and Liu, Guangyuan and Fu, Xiaolan},
+  abstract={Facial micro-expression is a brief involuntary facial movement and can reveal the genuine emotion that people try to conceal. Traditional methods of spontaneous micro-expression recognition rely excessively on sophisticated hand-crafted feature design and the recognition rate is not high enough for its practical application. In this paper, we proposed a Dual Temporal Scale Convolutional Neural Network (DTSCNN) for spontaneous micro-expressions recognition. The DTSCNN is a two-stream network. Different of stream of DTSCNN is used to adapt to different frame rate of micro-expression video clips. Each stream of DSTCNN consists of independent shallow network for avoiding the overfitting problem. Meanwhile, we fed the networks with optical-flow sequences to ensure that the shallow networks can further acquire higher-level features. Experimental results on spontaneous micro-expression databases (CASME I/II) showed that our method can achieve a recognition rate almost 10% higher than what some state-of-the-art method can achieve.},
+  journal={Frontiers in psychology},
+  year={2017},
+  html={https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01745/full},
+  pdf={fpsyg-08-01745.pdf},
+  selected={false}
+}
+
+@article{peng2016nirfacenet,
+  abbr={MDPI},
+  title={Nirfacenet: A convolutional neural network for near-infrared face identification},
+  author={Peng, Min and Wang, Chongyang and Chen, Tong and Liu, Guangyuan},
+  abstract={Near-infrared (NIR) face recognition has attracted increasing attention because of its advantage of illumination invariance. However, traditional face recognition methods based on NIR are designed for and tested in cooperative-user applications. In this paper, we present a convolutional neural network (CNN) for NIR face recognition (specifically face identification) in non-cooperative-user applications. The proposed NIRFaceNet is modified from GoogLeNet, but has a more compact structure designed specifically for the Chinese Academy of Sciences Institute of Automation (CASIA) NIR database and can achieve higher identification rates with less training time and less processing time. The experimental results demonstrate that NIRFaceNet has an overall advantage compared to other methods in the NIR face recognition domain when image blur and noise are present. The performance suggests that the proposed NIRFaceNet method may be more suitable for non-cooperative-user applications.},
+  journal={Information},
+  year={2016},
+  html={https://www.mdpi.com/2078-2489/7/4/61},
+  pdf={information-07-00061.pdf},
+  selected={false}
+}
+
+# <img src="https://gaoyuankidult.github.io/images/bio-photo.jpg" alt="Yuan Gao bio photo" style="width:150px;height:140px;">

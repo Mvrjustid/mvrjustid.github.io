@@ -46,7 +46,7 @@ gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: mvrjustid # your Google Scholar ID
-orcid_id: 0000-0002-9819-088X # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -57,7 +57,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+Email is the best way to connect
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -75,7 +75,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: chongyang # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -141,9 +141,9 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
-
+  last_name: Wang
+  first_name: [Chongyang, C.]
+  
   style: apa
   locale: en
 
