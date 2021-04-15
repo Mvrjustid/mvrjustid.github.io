@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research interest has a focus on human enhancement with ubiquitous technology.
 nav: true
 display_categories: [work, fun]
 horizontal: false

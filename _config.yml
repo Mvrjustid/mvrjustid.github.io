@@ -22,7 +22,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
 footer_fixed: true
 
 # Dimensions
@@ -41,23 +41,23 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: mvrjustid # your GitHub user name
+github_username:  # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: mvrjustid # your Google Scholar ID
+scholar_userid:  # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Chongyang_Wang5 # your profile on ResearchGate
+research_gate_profile:  # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://uclic.ucl.ac.uk/people/chongyang-wang # work page URL
+work_url:  # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-Email is the best way to connect
+  Email is the best way to connect.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
