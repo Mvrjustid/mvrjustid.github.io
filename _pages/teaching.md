@@ -26,7 +26,6 @@ Mobicomp'19,\\
 ACII'19 Workshops,\\
 PerCom'19 Industry Track,
 
-
 ---
 
 #### Teaching assistant
@@ -39,7 +38,9 @@ PerCom'19 Industry Track,
 
 #### Invited talks
 
-‘Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data’, AI Society Journal Club, UCL, 02 2021.
+‘Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data’ \\
+AI Society Journal Club, UCL, 02 2021.
 
-‘From Facial Micro-Expression Recognition to Protective Movement Behavior Detection’, Cyber Physical Systems Seminar, Department of Computer Science, University of Oxford, 12 2018.
+‘From Facial Micro-Expression Recognition to Protective Movement Behavior Detection’ \\
+Cyber Physical Systems Seminar, Department of Computer Science, University of Oxford, 12 2018.
 
