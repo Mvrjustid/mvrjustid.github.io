@@ -28,7 +28,7 @@ nav: true
 <!--     2021 Paper 1 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD"><img src="/assets/img/IMWUT_1.png" alt="IMWUT_1_ChongyangWang" width="240" height="140">
+  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD"><img src="/assets/img/IMWUT_1.png" alt="IMWUT_1_ChongyangWang" width="280" height="150">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -75,7 +75,7 @@ nav: true
 <!--     2021 Paper 2 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://arxiv.org/pdf/1902.08990.pdf"><img src="/assets/img/ACMHEALTH_1.png" alt="ACMHEALTH_1_ChongyangWang" width="240" height="160">
+  <a href="https://arxiv.org/pdf/1902.08990.pdf"><img src="/assets/img/ACMHEALTH_1.png" alt="ACMHEALTH_1_ChongyangWang" width="280" height="180">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -129,7 +129,7 @@ nav: true
 <!--     2020 Paper 1 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/AKMNet-Micro-Expression"><img src="/assets/img/IEEEMM_1.png" alt="IEEEMM_1_ChongyangWang" width="240" height="140">
+  <a href="https://github.com/Mvrjustid/AKMNet-Micro-Expression"><img src="/assets/img/IEEEMM_1.png" alt="IEEEMM_1_ChongyangWang" width="280" height="150">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -179,7 +179,7 @@ nav: true
 <!--     2020 Paper 2 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/Micro-Attention-for-Micro-Expression"><img src="/assets/img/Neurocom_1.png" alt="Neurocom_1_ChongyangWang" width="240" height="180">
+  <a href="https://github.com/Mvrjustid/Micro-Attention-for-Micro-Expression"><img src="/assets/img/Neurocom_1.png" alt="Neurocom_1_ChongyangWang" width="280" height="200">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -229,7 +229,7 @@ nav: true
 <!--     2019 Paper 1 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://dl.acm.org/doi/abs/10.1145/3341163.3347728"><img src="/assets/img/ISWC_1.png" alt="ISWC_1_ChongyangWang" width="240" height="160">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3341163.3347728"><img src="/assets/img/ISWC_1.png" alt="ISWC_1_ChongyangWang" width="280" height="200">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -277,7 +277,7 @@ nav: true
 <!--     2019 Paper 2 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/BodyAttentionNetwork"><img src="/assets/img/ACII_1.png" alt="ACII_1_ChongyangWang" width="240" height="130">
+  <a href="https://github.com/Mvrjustid/BodyAttentionNetwork"><img src="/assets/img/ACII_1.png" alt="ACII_1_ChongyangWang" width="280" height="150">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -326,7 +326,7 @@ nav: true
 <!--     2019 Paper 3 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/ACII19-Apex-Time-Network"><img src="/assets/img/ACII_2.png" alt="ACII_2_ChongyangWang" width="240" height="140">
+  <a href="https://github.com/Mvrjustid/ACII19-Apex-Time-Network"><img src="/assets/img/ACII_2.png" alt="ACII_2_ChongyangWang" width="280" height="180">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -378,7 +378,7 @@ nav: true
 <!--     2018 Paper 1 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://ieeexplore.ieee.org/abstract/document/8373920"><img src="/assets/img/FG_1.png" alt="FG_1_ChongyangWang" width="240" height="140">
+  <a href="https://ieeexplore.ieee.org/abstract/document/8373920"><img src="/assets/img/FG_1.png" alt="FG_1_ChongyangWang" width="280" height="160">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -425,7 +425,7 @@ nav: true
 <!--     2017 Paper 1 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01745/full"><img src="/assets/img/Frontiers_1.png" alt="Frontiers_1_ChongyangWang" width="240" height="140">
+  <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01745/full"><img src="/assets/img/Frontiers_1.png" alt="Frontiers_1_ChongyangWang" width="280" height="160">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -471,7 +471,7 @@ nav: true
 <!--     2017 Paper 2 start    -->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://www.mdpi.com/2078-2489/7/4/61"><img src="/assets/img/Information_1.png" alt="Information_1_ChongyangWang" width="240" height="80">
+  <a href="https://www.mdpi.com/2078-2489/7/4/61"><img src="/assets/img/Information_1.png" alt="Information_1_ChongyangWang" width="280" height="100">
   </a>
   
   <!-- ----      Title      ---- -->
