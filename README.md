@@ -1,3 +1,6 @@
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Mvrjustid&count_private=true&show_icons=true" align="center">  
+
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
