@@ -16,19 +16,10 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
-
-
-
-
-Chongyang Wang is a PhD candidate at the UCL interaction centre under the supervision of Prof. Nadia Berthouze and Dr. Nic Lane. Prof. Amanda Williams is acting as the honorary supervisor who help enrich the theoretical background from a clinical psychology perspective.\\
-His main research focus is on ubiquitous and affective computing for healthcare applications. He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation.
-
 **ubiquitous computing**, **affective computing**, **deep learning**, **AI for healthcare** 
 
-[![Awards](https://img.shields.io/badge/Awards-UCL%20ORS--GRS-blueviolet?style=flat-square&logo=Unacademy)](https://www.ucl.ac.uk/economics/study/postgraduate/funding/funding/ucl-research-scholarships-grs-and-ors)
-[![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E240-blue?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en)
-[![Achievement](https://img.shields.io/badge/Milestone-1st%20IMWUT-orange?style=flat-square&logo=Google-Keep)](https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD)
+Chongyang Wang is a PhD candidate at the UCL interaction centre under the supervision of Prof. Nadia Berthouze and Dr. Nic Lane. Prof. Amanda Williams is acting as the honorary supervisor who help enrich the theoretical background from a clinical psychology perspective.\\
+<!-- His main research focus is on ubiquitous and affective computing for healthcare applications. He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
 [UCL page](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"}
 
@@ -38,3 +29,6 @@ His main research focus is on ubiquitous and affective computing for healthcare 
 
 [Contact](mailto:chongyang.wang.17@ucl.ac.uk){:target="\_blank"}
 
+[![Awards](https://img.shields.io/badge/Awards-UCL%20ORS--GRS-3CB371?style=flat-square&logo=Unacademy)](https://www.ucl.ac.uk/economics/study/postgraduate/funding/funding/ucl-research-scholarships-grs-and-ors)
+[![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E240-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en)
+[![Achievement](https://img.shields.io/badge/Milestone-1st%20IMWUT-FF8C00?style=flat-square&logo=Google-Keep)](https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD)
