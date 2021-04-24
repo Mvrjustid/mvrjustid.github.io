@@ -26,9 +26,9 @@ His main research focus is on ubiquitous and affective computing for healthcare 
 
 **ubiquitous computing**, **affective computing**, **deep learning**, **AI for healthcare** 
 
-[![Achievement](https://img.shields.io/badge/Milestone-1st%20IMWUT-orange?style=flat-square&logo=Google-Keep)](https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD)
-[![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E240-blue?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en)
 [![Awards](https://img.shields.io/badge/Awards-UCL%20ORS--GRS-blueviolet?style=flat-square&logo=Unacademy)](https://www.ucl.ac.uk/economics/study/postgraduate/funding/funding/ucl-research-scholarships-grs-and-ors)
+[![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E240-blue?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en)
+[![Achievement](https://img.shields.io/badge/Milestone-1st%20IMWUT-orange?style=flat-square&logo=Google-Keep)](https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD)
 
 [UCL page](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"}
 
