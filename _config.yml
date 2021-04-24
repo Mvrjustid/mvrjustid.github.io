@@ -170,7 +170,7 @@ enable_mansory:             true
 enable_math:                true
 enable_tooltips:            false
 enable_darkmode:            true
-enable_navbar_social:       true
+enable_navbar_social:       false
 
 # -----------------------------------------------------------------------------
 # Library versions
