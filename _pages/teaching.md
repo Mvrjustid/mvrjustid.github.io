@@ -7,7 +7,7 @@ nav: true
 ---
 ---
 
-#### Reviewer
+#### Program committee member
 **Journals:**
 \\
 IMWUT,\\
@@ -20,6 +20,7 @@ Journal of Signal Processing Systems,
 **Conferences:**
 \\
 Ubicomp'19, 20, 21,\\
+ACII'21,\\
 ICMI'20,\\
 SmartCOMP'20 Industry Track,\\
 Mobicomp'19,\\
@@ -37,6 +38,9 @@ PerCom'19 Industry Track,
 ---
 
 #### Invited talks
+
+‘The Role of AI in Chronic-pain Management’\\
+A Showcase for Hospital Authority (HA) of Hongkong, AIRS, 04 2021.
 
 ‘Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data’ \\
 AI Society Journal Club, UCL, 02 2021.
