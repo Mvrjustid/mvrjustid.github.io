@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My research interest has a focus on human enhancement with ubiquitous technology. Wait...where are my projects?
+description: My research interest has a focus on human enhancement with ubiquitous technology.
 nav: true
 display_categories: [work, fun]
 horizontal: false
