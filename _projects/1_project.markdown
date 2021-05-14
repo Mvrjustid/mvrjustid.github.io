@@ -7,20 +7,31 @@ importance: 1
 category: research
 ---
 
-The popular treatment for chronic pain (CP) is focused on physical rehabilitation organised by physios at clinics. The physio observe the movement behavior of people with CP during the rehabilitation session, and respond with encouragement, feedback and intervention. Here, movement behaviors like guarding, stiffness, hesitation, the use of support, and jerky motion are referred to as **protective behavior**. The figure shown below contains avatar examples transformed from movement data of normal people and people with chronic pain. Could you spot the difference?
+The popular treatment for chronic pain (CP) is focused on physical rehabilitation organised by physiotherapists at clinic. The physio observes the movement behavior of people with CP during the rehabilitation session, and respond with oral encouragement, post-hoc feedback and interventions. Here, movement behaviors like guarding, stiffness, hesitation, the use of support, and jerky motion are referred to as **protective behavior**. Protective behavior is adopted by people with CP due to their fear of ongoing or potential pain and injury. Therefore, it is informative for physios and an **artificial system** to infer the physical and psychological states of those people. The figure shown below contains avatar examples transformed from movement data of normal people and people with CP. Could you spot the difference?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid" src="{{'/assets/img/avatars_2.png' | relative_url }}" alt="" title="Avatar examples"/>
+        <img class="img-fluid z-depth-1" src="{{'/assets/img/avatars_2.png' | relative_url }}" alt="" title="Avatar examples"/>
     </div>
 </div>
 <div class="caption">
-    Avatar examples of movement data from healthy and CP participants performing the five activities-of-interest.
+    Avatar examples of movement data from healthy and CP participants performing the five activities-of-interest (AoIs).
 </div>
 
-Unfortunately, the service offered in clinic is only available to the few. On the other hand, applying the movement strategies learned from clinic to daily self-directed managements is difficult. This is particularly due to the reduced self-awareness of the use of protective behavior in a daily scenario, which could worsen the condition except for bringing temporary comfort to the person.
+Unfortunately, the service offered in clinic is expensive and only available to the few. On the other hand, applying movement strategies learned from the clinic to daily self-directed management is difficult. This is particularly due to the reduced self-awareness of the use of protective behavior in a daily scenario, which could worsen the condition except for bringing temporary comfort to the person. 
 
-To be continue...
+As an important step towards building a virtual physiotherapist for people's everyday use, the aim of my Phd is to establish accurate protective behavior detection (PBD) using the EmoPain dataset we collected back to 2016. A full data sequence of a participant with CP is shown below. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid z-depth-1" src="{{'/assets/img/sequence_2.png' | relative_url }}" alt="" title="Avatar examples"/>
+    </div>
+</div>
+<div class="caption">
+    An example of the full data sequence from a CP participant, comprising AoIs and transitions.
+</div>
+
+As many other AI for Healthcare areas, the major challenge for this research is the lack of very large datasets. While this could be alleviated by investing money in large-scale dataset collections, as a researcher I need to further think about solving the research questions exist in the task using such data. In the past few years...
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
