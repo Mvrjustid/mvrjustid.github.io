@@ -37,7 +37,7 @@ PerCom'19 Industry Track,
 
 ---
 
-#### Invited talks
+#### Invited speaker
 
 ‘The Role of AI in Chronic-pain Management’\\
 A Showcase for Hospital Authority (HA) of Hongkong, AIRS, 04 2021.
