@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Chongyang
 middle_name: 
 last_name: Wang
@@ -68,7 +68,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 blog_name: Casual thinking...  # your blog must have a name for it to show up in the nav bar
 blog_description: who shall spend hours on blogging?
-permalink: /blog/:year/:title/
+permalink: /blog/
 
 # Pagination
 pagination:
