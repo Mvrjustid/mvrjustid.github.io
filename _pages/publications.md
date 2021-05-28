@@ -42,6 +42,8 @@ nav: true
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
                           
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur, Akhil</a>,
+
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,                
                                       
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
                                
