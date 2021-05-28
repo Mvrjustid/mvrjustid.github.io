@@ -29,14 +29,6 @@ PerCom'19 Industry Track,
 
 ---
 
-#### Teaching assistant
-[COMP0053](https://www.ucl.ac.uk/module-catalogue/modules/affective-computing-and-human-robot-interaction/COMP0053){:target="\_blank"}
-, Affective Computing and Human-Robot Interaction (AC-HRI), a post-graduate taught course, since 2017.
-\\
-[PSYC0021](https://www.ucl.ac.uk/module-catalogue/modules/affective-interaction/PSYC0021){:target="\_blank"}, Affective Interaction, a post-graduate taught course, occasionally since 2017.
-
----
-
 #### Invited speaker
 
 ‘The Role of AI in Chronic-pain Management’\\
@@ -48,3 +40,15 @@ AI Society Journal Club, UCL, 02 2021.
 ‘From Facial Micro-Expression Recognition to Protective Movement Behavior Detection’ \\
 Cyber Physical Systems Seminar, Department of Computer Science, University of Oxford, 12 2018.
 
+---
+
+#### Teaching assistant
+[COMP0053](https://www.ucl.ac.uk/module-catalogue/modules/affective-computing-and-human-robot-interaction/COMP0053){:target="\_blank"}, Affective Computing and Human-Robot Interaction (AC-HRI), a post-graduate taught course, since 2017.
+\\
+[PSYC0021](https://www.ucl.ac.uk/module-catalogue/modules/affective-interaction/PSYC0021){:target="\_blank"}, Affective Interaction, a post-graduate taught course, occasionally since 2017.
+
+---
+
+#### Supervision
+Cen Guanting, M.Sc project, UCL, 2021.\\
+Yi Kexin, B.Eng project, HUST, 2021.
