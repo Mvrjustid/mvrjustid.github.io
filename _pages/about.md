@@ -18,11 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 **ubiquitous computing**, **affective computing**, **AI for healthcare** 
 
-Chongyang Wang is a PhD candidate at UCL interaction centre\\
-under the supervision of Prof. Nadia Berthouze and Dr. Nic Lane.\\
-Prof. Amanda Williams is acting as the honorary supervisor who\\
-help enrich the theoretical background from a clinical psychology\\
-perspective.
+Chongyang Wang is a PhD candidate at UCL interaction centre under the supervision of Prof. Nadia Berthouze and Dr. Nic Lane. Prof. Amanda Williams is acting as the honorary supervisor who help enrich the theoretical background from a clinical psychology perspective. His research focuses on ubiquitous and affective computing for smart healthcare.
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
