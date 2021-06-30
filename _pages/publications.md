@@ -52,7 +52,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em> 2021    
+  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -103,7 +103,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>ACM Transactions on Computing for Healthcare</em> 2021    
+  <em>ACM Transactions on Computing for Healthcare</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -158,7 +158,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>IEEE Transactions on MultiMeida (In Review)</em> 2020    
+  <em>IEEE Transactions on MultiMeida (In Review)</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -203,7 +203,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>Neurocomputing</em> 2020    
+  <em>Neurocomputing</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -256,7 +256,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>ACM International Joint Conference on Pervasive and Ubiquitous Computing</em> 2019    
+  <em>ACM International Joint Conference on Pervasive and Ubiquitous Computing</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -305,7 +305,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos</em> 2019    
+  <em>8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -353,7 +353,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>8th International Conference on Affective Computing and Intelligent Interaction (ACII)</em> 2019    
+  <em>8th International Conference on Affective Computing and Intelligent Interaction (ACII)</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -399,7 +399,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>13th IEEE International Conference on Automatic Face & Gesture Recognition</em> 2018    
+  <em>13th IEEE International Conference on Automatic Face & Gesture Recognition</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -450,7 +450,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>Frontiers in psychology</em> 2017    
+  <em>Frontiers in psychology</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
@@ -494,7 +494,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>Information</em> 2017    
+  <em>Information</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
