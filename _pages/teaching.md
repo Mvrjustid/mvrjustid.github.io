@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /academicactivities/
+permalink: /activities/
 title: activities
 description:
 nav: true
@@ -21,7 +21,7 @@ Journal of Signal Processing Systems,
 \\
 Ubicomp'19, 20, 21,\\
 ACII'21,\\
-ICMI'20,\\
+ICMI'20,21,\\
 SmartCOMP'20 Industry Track,\\
 Mobicomp'19,\\
 ACII'19 Workshops,\\
