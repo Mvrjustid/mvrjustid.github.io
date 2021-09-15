@@ -7,7 +7,7 @@ nav: true
 ---
 ---
 
-#### Program committee member
+#### Reviewer
 **Journals:**
 \\
 IMWUT,\\
