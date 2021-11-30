@@ -166,7 +166,7 @@ nav: true
   <!-- ---- Badge/Abstract/PDF ---- -->
   <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">IEEE MM</abbr>
+  <abbr class="badge">IEEE TMM</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/2009.09179.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
