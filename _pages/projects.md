@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My research interest has a focus on human enhancement with ubiquitous technology.
+description: My current research focus on leveraging AI for intelligent chronic pain rehabilitation.
 nav: true
 display_categories: [work, fun]
 horizontal: false
