@@ -20,11 +20,10 @@ Journal of Signal Processing Systems,
 **Conferences:**
 \\
 Ubicomp'19, 20, 21,\\
-ACII'21,\\
+ACII'19, 21,\\
 ICMI'20,21,\\
 SmartCOMP'20 Industry Track,\\
 Mobicomp'19,\\
-ACII'19 Workshops,\\
 PerCom'19 Industry Track,
 
 ---
