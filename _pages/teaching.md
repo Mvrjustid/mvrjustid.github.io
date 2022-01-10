@@ -29,6 +29,8 @@ PerCom'19 Industry Track,
 ---
 
 #### Invited speaker
+‘Ubiquitous Human Behavior Sensing for Intelligent Chronic Pain Rehabilitation’\\
+‘Nursing + X’ Forum, School of Nursing, Shanghai Jiao Tong University, 10 2021.
 
 ‘The Role of AI in Chronic-pain Management’\\
 A Showcase for Hospital Authority (HA) of Hongkong, AIRS, 04 2021.
@@ -49,5 +51,5 @@ Cyber Physical Systems Seminar, Department of Computer Science, University of Ox
 ---
 
 #### Supervision
-Cen Guanting, M.Sc project, UCL, 2021.\\
+Cen Guanting, M.Sc project, UCL, 2021. Awarded with Distinction.\\
 Yi Kexin, B.Eng project, HUST, 2021.
