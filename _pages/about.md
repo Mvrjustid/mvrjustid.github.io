@@ -28,7 +28,7 @@ Chongyang Wang is a PhD candidate at UCL interaction centre under the supervisio
 [CV](/assets/pdf/CV_ChongyangWang.pdf){:target="\_blank"}\\
 [Contact](mailto:chongyang.wang.17@ucl.ac.uk){:target="\_blank"}
 
-<!-- [![Awards](https://img.shields.io/badge/Awards-UCL%20ORS--GRS-blueviolet?style=flat-square&logo=Unacademy)](https://www.ucl.ac.uk/economics/study/postgraduate/funding/funding/ucl-research-scholarships-grs-and-ors)\\ -->
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
 <!-- [![Achievement](https://img.shields.io/badge/Milestone-1st%20IMWUT-FF8C00?style=flat-square&logo=Google-Keep)](https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD)\\ -->
+[![Awards](https://img.shields.io/badge/Awards-UCL%20ORS--GRS-blueviolet?style=flat&logo=Unacademy)](https://www.ucl.ac.uk/economics/study/postgraduate/funding/funding/ucl-research-scholarships-grs-and-ors)\\
 [![Status](https://img.shields.io/badge/Status-Awaiting%20Viva-orange?style=flat&logo=Clockify)](https://www.ucl.ac.uk/students/exams-and-assessments/research-assessments/format-bind-and-submit-your-thesis-general-guidance)
