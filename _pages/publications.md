@@ -138,7 +138,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">Recognizing Micro-expression in Video Clip with Adaptive Key-frame Mining
+  <div class="title">Recognizing Micro-Expression in Video Clip with Adaptive Key-Frame Mining
   </div>
 
   <!-- ----      Author     ---- -->
@@ -188,7 +188,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">Micro-attention for micro-expression recognition
+  <div class="title">Micro-Attention for Micro-Expression Recognition
   </div>
 
   <!-- ----      Author     ---- -->
@@ -240,7 +240,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">Recurrent network based automatic detection of chronic pain protective behavior using mocap and semg data
+  <div class="title">Recurrent Network based Automatic Detection of Chronic Pain Protective Behavior using Mocap and sEMG Data
   </div>
 
   <!-- ----      Author     ---- -->
@@ -288,7 +288,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">Learning temporal and bodily attention in protective movement behavior detection
+  <div class="title">Learning Temporal and Bodily Attention in Protective Movement Behavior Detection
   </div>
 
   <!-- ----      Author     ---- -->
@@ -337,7 +337,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">A novel apex-time network for cross-dataset micro-expression recognition
+  <div class="title">A Novel Apex-Time Network for Cross-Dataset Micro-Expression Recognition
   </div>
 
   <!-- ----      Author     ---- -->
@@ -392,7 +392,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">Attention based residual network for micro-gesture recognition
+  <div class="title">Attention based Residual Network for Micro-Gesture Recognition
   </div>
 
   <!-- ----      Author     ---- -->
@@ -441,7 +441,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">Dual temporal scale convolutional neural network for micro-expression recognition
+  <div class="title">Dual Temporal Scale Convolutional Neural Network for Micro-Expression Recognition
   </div>
 
   <!-- ----      Author     ---- -->
@@ -487,7 +487,7 @@ nav: true
   
   <!-- ----      Title      ---- -->
   <div id="wang2020leveraging" class="col-sm-8">
-  <div class="title">NIRFacenet: A convolutional neural network for near-infrared face identification
+  <div class="title">NIRFacenet: A Convolutional Neural Network for Near-Infrared Face Identification
   </div>
 
   <!-- ----      Author     ---- -->
