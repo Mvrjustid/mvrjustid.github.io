@@ -77,7 +77,7 @@ nav: true
 <!-----------------------------------------------------     2021 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://arxiv.org/pdf/1902.08990.pdf"><img src="/assets/img/ACMHEALTH_1.png" alt="ACMHEALTH_1_ChongyangWang" width="280" height="180">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3449068"><img src="/assets/img/ACMHEALTH_2.png" alt="ACMHEALTH_1_ChongyangWang" width="280" height="180">
   </a>
   
   <!-- ----      Title      ---- -->
