@@ -11,7 +11,7 @@ The popular treatment for chronic pain (CP) is focused on physical rehabilitatio
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid z-depth-1" src="{{'/assets/img/avatars_2.png' | relative_url }}" alt="" title="Avatar examples"/>
+        <img class="img-fluid" src="{{'/assets/img/avatars_2.png' | relative_url }}" alt="" title="Avatar examples"/>
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ As an important step towards building a virtual physiotherapist for people's eve
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid z-depth-1" src="{{'/assets/img/sequence_2.png' | relative_url }}" alt="" title="Avatar examples"/>
+        <img class="img-fluid" src="{{'/assets/img/sequence_2.png' | relative_url }}" alt="" title="Avatar examples"/>
     </div>
 </div>
 <div class="caption">
@@ -35,7 +35,7 @@ As many other AI for Healthcare areas, the major challenge for our research is t
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid z-depth-1" src="{{'/assets/img/models.png' | relative_url }}" alt="" title="our models"/>
+        <img class="img-fluid" src="{{'/assets/img/models.png' | relative_url }}" alt="" title="our models"/>
     </div>
 </div>
 <div class="caption">
@@ -46,7 +46,7 @@ In the latest work of us, we managed to establish accurate PBD using the continu
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid z-depth-1" src="{{'/assets/img/IMWUT_1.png' | relative_url }}" alt="" title="the proposed architecture"/>
+        <img class="img-fluid" src="{{'/assets/img/IMWUT_1.png' | relative_url }}" alt="" title="the proposed architecture"/>
     </div>
 </div>
 <div class="caption">
