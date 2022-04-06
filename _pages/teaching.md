@@ -12,6 +12,7 @@ nav: true
 \\
 IMWUT,\\
 ACM Transactions on Intelligent Systems and Technology,\\
+ACM Transactions on Internet of Things,\\
 IEEE Transactions on Human-Machine Systems,\\
 IEEE Transactions on MultiMedia,\\
 Journal of Signal Processing Systems,
