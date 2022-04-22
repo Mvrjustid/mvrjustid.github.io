@@ -8,6 +8,7 @@ nav: true
 ---
 
 
+
 <div class="container mt-5">
       <div class="post">
   <header class="post-header">
@@ -24,8 +25,7 @@ nav: true
 
 <h2 class="year">2022</h2>
 <ol class="bibliography">
-
-<!-----------------------------------------------------     2021 Paper 1 start    ----------------------------------------------------->
+<!-----------------------------------------------------     2022 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid"><img class="z-depth-1" src="/assets/img/IJCAI_1.png" alt="IJCAI_1_ChongyangWang" width="280" height="150">
@@ -39,13 +39,9 @@ nav: true
   <!-- ----      Author     ---- -->
   <div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
-
   <em>Wang Chongyang</em>,  
-
-  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,
-                               
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,                
   <a>Yu Shi</a>,
-
   and <a>Zhou Xiangdong</a>       
   </div>
 
@@ -76,7 +72,6 @@ nav: true
 
 <h2 class="year">2021</h2>
 <ol class="bibliography">
-
 <!-----------------------------------------------------     2021 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
@@ -91,14 +86,10 @@ nav: true
   <!-- ----      Author     ---- -->
   <div class="author">
   <em>Wang, Chongyang</em>,                        
-  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
-                          
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,                
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur, Akhil</a>,
-
-  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,                
-                                      
-  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
-                               
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,                                                     
+  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,                              
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
   </div>
 
