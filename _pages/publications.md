@@ -22,6 +22,58 @@ nav: true
 
 
 
+<h2 class="year">2022</h2>
+<ol class="bibliography">
+
+<!-----------------------------------------------------     2021 Paper 1 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
+  <a href="https://github.com/Mvrjustid"><img class="z-depth-1" src="/assets/img/IJCAI_1.png" alt="IJCAI_1_ChongyangWang" width="280" height="150">
+  </a>
+  
+  <!-- ----      Title      ---- -->
+  <div id="peng2022MHN" class="col-sm-8">
+  <div class="title">Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering
+  </div>
+
+  <!-- ----      Author     ---- -->
+  <div class="author">
+  <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
+
+  <em>Wang Chongyang</em>,  
+
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,
+                               
+  <a>Yu Shi</a>,
+
+  and <a>Zhou Xiangdong</a>       
+  </div>
+
+  <!-- ----      Journal      ---- -->
+  <div class="periodical"> 
+  <em>Proceedings of 31st International Joint Conferences on Artificial Intelligence (IJCAI'22)</em>    
+  </div>
+
+  <!-- ---- Badge/Abstract/PDF ---- -->
+  <div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">IJCAI</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/Multi_Level_Hierarchical_Network_with_Multi_Scale_Sampling_for_Video_Question_Answering___IJCAI22.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  </div>
+  <div class="abstract hidden">
+  <p>Video question answering (VideoQA) is challenging given its multimodal combination of visual understanding and natural language processing. While most existing approaches ignore the visual appearance-motion information at different temporal scales, it is unknown how to incorporate the multilevel processing capacity of a deep learning model with such multiscale information. Targeting these issues, this paper proposes a novel Multilevel Hierarchical Network (MHN) with multiscale sampling for VideoQA. MHN comprises two modules, namely Recurrent Multimodal Interaction (RMI) and Parallel Visual Reasoning (PVR). With a multiscale sampling, RMI iterates the interaction of appearance-motion information at each scale and the question embeddings to build the multilevel question-guided visual representations. Thereon, with a shared transformer encoder, PVR infers the visual cues at each level in parallel to fit with answering different question types that may rely on the visual information at relevant levels. Through extensive experiments on three VideoQA datasets, we demonstrate improved performances than previous state-of-the-arts and justify the effectiveness of each part of our method.</p>
+  </div>
+
+  </div>
+</div>
+</li>
+<!-----------------------------------------------------      2022 Paper 1 end     ----------------------------------------------------->
+</ol>
+
+
+
 <h2 class="year">2021</h2>
 <ol class="bibliography">
 
