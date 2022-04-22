@@ -51,7 +51,7 @@ nav: true
 
   <!-- ----      Journal      ---- -->
   <div class="periodical"> 
-  <em>Proceedings of 31st International Joint Conferences on Artificial Intelligence (IJCAI'22)</em>    
+  <em>Proceedings of 31st International Joint Conferences on Artificial Intelligence (IJCAI)</em>    
   </div>
 
   <!-- ---- Badge/Abstract/PDF ---- -->
