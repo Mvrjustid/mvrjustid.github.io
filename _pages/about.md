@@ -27,7 +27,7 @@ Chongyang Wang is a PhD candidate at UCL interaction centre under the supervisio
 [UCL page](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"}\\
 [Google scholar](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en){:target="\_blank"}\\
 [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
-[CV](/assets/pdf/CV_ChongyangWang.pdf){:target="\_blank"}\\
+[CV](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
 [Contact](mailto:chongyang.wang.17@ucl.ac.uk){:target="\_blank"}
 
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
