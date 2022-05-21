@@ -101,7 +101,7 @@ nav: true
   <!-- ---- Badge/Abstract/PDF ---- -->
   <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">IMWUT</abbr>
+  <abbr class="badge">IMWUT/Ubicomp</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/Leveraging_Activity_Recognition_to_Enable_Protective_Behavior_Detection_in_Continuous_Data_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
@@ -309,7 +309,7 @@ nav: true
   <!-- ---- Badge/Abstract/PDF ---- -->
   <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">Ubicomp/ISWC</abbr>
+  <abbr class="badge">ISWC/Ubicomp</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/3341163.3347728.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
