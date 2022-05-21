@@ -28,7 +28,7 @@ nav: true
 <!-----------------------------------------------------     2022 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/MHN-IJCAI22"><img class="img-responsive z-depth-1 rounded" src="/assets/img/IJCAI_1.png" style="width:120pt">
+  <a href="https://github.com/Mvrjustid/MHN-IJCAI22"><img class="img-responsive z-depth-1 rounded" src="/assets/img/IJCAI_1.png" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -75,7 +75,7 @@ nav: true
 <!-----------------------------------------------------     2021 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD"><img class="img-responsive z-depth-1 rounded" src="/assets/img/IMWUT_1.png" style="width:120pt">
+  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD"><img class="img-responsive z-depth-1 rounded" src="/assets/img/IMWUT_1.png" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -120,7 +120,7 @@ nav: true
 <!-----------------------------------------------------     2021 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://dl.acm.org/doi/abs/10.1145/3449068"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACMHEALTH_3.png" alt="ACMHEALTH_1_ChongyangWang" style="width:120pt">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3449068"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACMHEALTH_3.png" alt="ACMHEALTH_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -176,7 +176,7 @@ nav: true
 <!-----------------------------------------------------     2020 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/AKMNet-Micro-Expression"><img class="img-fluid z-depth-1 rounded" src="/assets/img/IEEEMM_1.png" alt="IEEEMM_1_ChongyangWang" style="width:120pt">
+  <a href="https://github.com/Mvrjustid/AKMNet-Micro-Expression"><img class="img-fluid z-depth-1 rounded" src="/assets/img/IEEEMM_1.png" alt="IEEEMM_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -226,7 +226,7 @@ nav: true
 <!-----------------------------------------------------     2020 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/Micro-Attention-for-Micro-Expression"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Neurocom_1.png" alt="Neurocom_1_ChongyangWang" style="width:120pt">
+  <a href="https://github.com/Mvrjustid/Micro-Attention-for-Micro-Expression"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Neurocom_1.png" alt="Neurocom_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -278,7 +278,7 @@ nav: true
 <!-----------------------------------------------------     2019 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://dl.acm.org/doi/abs/10.1145/3341163.3347728"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ISWC_1.png" alt="ISWC_1_ChongyangWang" style="width:120pt">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3341163.3347728"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ISWC_1.png" alt="ISWC_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -326,7 +326,7 @@ nav: true
 <!-----------------------------------------------------     2019 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/BodyAttentionNetwork"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACII_1.png" alt="ACII_1_ChongyangWang" style="width:120pt">
+  <a href="https://github.com/Mvrjustid/BodyAttentionNetwork"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACII_1.png" alt="ACII_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -375,7 +375,7 @@ nav: true
 <!-----------------------------------------------------     2019 Paper 3 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/ACII19-Apex-Time-Network"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACII_2.png" alt="ACII_2_ChongyangWang" style="width:120pt">
+  <a href="https://github.com/Mvrjustid/ACII19-Apex-Time-Network"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACII_2.png" alt="ACII_2_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -430,7 +430,7 @@ nav: true
 <!-----------------------------------------------------     2018 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://ieeexplore.ieee.org/abstract/document/8373920"><img class="img-fluid z-depth-1 rounded" src="/assets/img/FG_1.png" alt="FG_1_ChongyangWang" style="width:120pt">
+  <a href="https://ieeexplore.ieee.org/abstract/document/8373920"><img class="img-fluid z-depth-1 rounded" src="/assets/img/FG_1.png" alt="FG_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -479,7 +479,7 @@ nav: true
 <!-----------------------------------------------------     2017 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01745/full"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Frontiers_1.png" alt="Frontiers_1_ChongyangWang" style="width:120pt">
+  <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01745/full"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Frontiers_1.png" alt="Frontiers_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -525,7 +525,7 @@ nav: true
 <!-----------------------------------------------------     2017 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://www.mdpi.com/2078-2489/7/4/61"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Information_1.png" alt="Information_1_ChongyangWang" style="width:120pt">
+  <a href="https://www.mdpi.com/2078-2489/7/4/61"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Information_1.png" alt="Information_1_ChongyangWang" style="width:150pt">
   </a>
   
   <!-- ----      Title      ---- -->
