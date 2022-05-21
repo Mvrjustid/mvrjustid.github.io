@@ -30,10 +30,10 @@ PerCom'19 Industry Track,
 ---
 
 #### Invited speaker
-‘The Interactive Development of AI and the Research on Chronic Pain’\\ 
+‘The Interactive Development of AI and the Research on Chronic Pain’\\
 Seminar, UM-SJTU Joint Institute, 01 2022.
 
-‘Ubiquitous Human Behavior Sensing for Intelligent Chronic Pain Rehabilitation’\\ 
+‘Ubiquitous Human Behavior Sensing for Intelligent Chronic Pain Rehabilitation’\\
 ‘Nursing + X’ Forum, School of Nursing, Shanghai Jiao Tong University, 10 2021.
 
 ‘The Role of AI in Chronic-pain Management’\\
@@ -42,7 +42,7 @@ Showcase, Hospital Authority (HA) of Hongkong, AIRS, 04 2021.
 ‘Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data’\\
 Seminar, AI Society Journal Club, UCL, 02 2021.
 
-‘From Facial Micro-Expression Recognition to Protective Movement Behavior Detection’\\ 
+‘From Facial Micro-Expression Recognition to Protective Movement Behavior Detection’\\
 Seminar, Department of Computer Science, University of Oxford, 12 2018.
 
 ---
