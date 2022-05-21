@@ -28,7 +28,7 @@ nav: true
 <!-----------------------------------------------------     2022 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/MHN-IJCAI22"><img class="img-fluid z-depth-1 rounded" src="/assets/img/IJCAI_1.png" alt="IJCAI_1_ChongyangWang" width="25.4%">
+  <a href="https://github.com/Mvrjustid/MHN-IJCAI22"><img class="img-fluid z-depth-1 rounded" src="/assets/img/IJCAI_1.png">
   </a>
   
   <!-- ----      Title      ---- -->
@@ -75,7 +75,7 @@ nav: true
 <!-----------------------------------------------------     2021 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD"><img class="img-fluid z-depth-1 rounded" src="/assets/img/IMWUT_1.png" alt="IMWUT_1_ChongyangWang" width="25.4%">
+  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD"><img class="img-fluid z-depth-1 rounded" src="/assets/img/IMWUT_1.png">
   </a>
   
   <!-- ----      Title      ---- -->
