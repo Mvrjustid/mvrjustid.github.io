@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 **ubiquitous computing**, **affective computing**, **AI for healthcare** 
 
-Chongyang Wang obtained his Ph.D. degree at UCL interaction centre under the supervision of Prof. Nadia Berthouze and Dr. Nic Lane. Prof. Amanda Williams is acting as the tertiary supervisor who help enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen. His research focus on ubiquitous and affective computing for intelligent healthcare. Particularly, he has been working on intelligent rehabilitation for people with chronic pain since 2017.
+Chongyang Wang obtained his Ph.D. degree at UCL interaction centre under the supervision of Prof. Nadia Berthouze and Dr. Nic Lane. Prof. Amanda Williams was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen. His research focus on ubiquitous and affective computing for intelligent healthcare. Particularly, he has been working on intelligent rehabilitation for people with chronic pain since 2017.
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
