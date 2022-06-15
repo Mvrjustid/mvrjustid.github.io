@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: University College London, 66-72, Gower St, London, UK
+description: Ph.D., University College London, 66-72, Gower St, London, UK
 
 profile:
   align: right
