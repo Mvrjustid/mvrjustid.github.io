@@ -10,7 +10,6 @@ nav: true
 #### Reviewer
 **Journal:**
 \\
-IMWUT,\\
 ACM Transactions on Intelligent Systems and Technology,\\
 ACM Transactions on Internet of Things,\\
 IEEE Transactions on Human-Machine Systems,\\
