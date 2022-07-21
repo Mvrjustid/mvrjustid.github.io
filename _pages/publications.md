@@ -262,14 +262,14 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>IEEE Transactions on MultiMeida (In Review)</em>    
+  <em>ArXiv Preprint</em>    
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">IEEE TMM</abbr>
+  <abbr class="badge">Arxiv</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/2009.09179.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
