@@ -7,8 +7,6 @@ years: []
 nav: true
 ---
 
-
-
 <div class="container mt-5">
       <div class="post">
   <header class="post-header">
@@ -21,8 +19,6 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-
-
 <h2 class="year">2022</h2>
 <ol class="bibliography">
 <!-----------------------------------------------------     2022 Paper 1 start    ----------------------------------------------------->
@@ -30,14 +26,16 @@ nav: true
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid/MHN-IJCAI22"><img class="img-responsive z-depth-1 rounded" src="/assets/img/IJCAI_1.png" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="peng2022MHN" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="peng2022MHN" class="col-sm-8">
   <div class="title">Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
   <em>Wang Chongyang</em>,  
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,                
@@ -45,13 +43,15 @@ nav: true
   and <a>Zhou Xiangdong</a>       
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>Proceedings of 31st International Joint Conferences on Artificial Intelligence (IJCAI)</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">IJCAI</abbr>
   </a>
@@ -62,13 +62,11 @@ nav: true
   <p>Video question answering (VideoQA) is challenging given its multimodal combination of visual understanding and natural language processing. While most existing approaches ignore the visual appearance-motion information at different temporal scales, it is unknown how to incorporate the multilevel processing capacity of a deep learning model with such multiscale information. Targeting these issues, this paper proposes a novel Multilevel Hierarchical Network (MHN) with multiscale sampling for VideoQA. MHN comprises two modules, namely Recurrent Multimodal Interaction (RMI) and Parallel Visual Reasoning (PVR). With a multiscale sampling, RMI iterates the interaction of appearance-motion information at each scale and the question embeddings to build the multilevel question-guided visual representations. Thereon, with a shared transformer encoder, PVR infers the visual cues at each level in parallel to fit with answering different question types that may rely on the visual information at relevant levels. Through extensive experiments on three VideoQA datasets, we demonstrate improved performances than previous state-of-the-arts and justify the effectiveness of each part of our method.</p>
   </div>
 
-  </div>
+</div>
 </div>
 </li>
 <!-----------------------------------------------------      2022 Paper 1 end     ----------------------------------------------------->
 </ol>
-
-
 
 <h2 class="year">2021</h2>
 <ol class="bibliography">
@@ -77,14 +75,16 @@ nav: true
   <!-- ----Picture with link---- -->
   <a href="https://wangchongyang.ai/publications/"><img class="img-responsive z-depth-1 rounded" src="/assets/img/Learn2Agree.png" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2021Agree" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2021Agree" class="col-sm-8">
   <div class="title">Learn2Agree: Fitting with Multiple Annotators without Objective Ground Truth
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <em>Wang, Chongyang</em>,                        
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,                
   <a href="" target="_blank">Fan, Chenyou</a>,
@@ -94,13 +94,15 @@ nav: true
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>ArXiv Preprint.</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">ArXiv</abbr>
   </a>
@@ -111,26 +113,27 @@ nav: true
   <p>The annotation of domain experts is important for some medical applications where the objective ground truth is ambiguous to define, e.g., the rehabilitation for some chronic diseases, and the prescreening of some musculoskeletal abnormalities without further medical examinations. However, improper uses of the annotations may hinder developing reliable models. On one hand, forcing the use of a single ground truth generated from multiple annotations is less informative for the modeling. On the other hand, feeding the model with all the annotations without proper regularization is noisy given existing disagreements. For such issues, we propose a novel Learning to Agreement (Learn2Agree) framework to tackle the challenge of learning from multiple annotators without objective ground truth. The framework has two streams, with one stream fitting with the multiple annotators and the other stream learning agreement information between annotators. In particular, the agreement learning stream produces regularization information to the classifier stream, tuning its decision to be better in line with the agreement between annotators. The proposed method can be easily added to existing backbones, with experiments on two medical datasets showed better agreement levels with annotators.</p>
   </div>
 
-  </div>
+</div>
 </div>
 </li>
 <!-----------------------------------------------------      2021 Paper 1 end     ----------------------------------------------------->
 
-
-
 <!-----------------------------------------------------     2021 Paper 2 start    ----------------------------------------------------->
+
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD"><img class="img-responsive z-depth-1 rounded" src="/assets/img/IMWUT_1.png" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <em>Wang, Chongyang</em>,                        
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,                
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur, Akhil</a>,
@@ -139,13 +142,15 @@ nav: true
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">IMWUT/Ubicomp</abbr>
   </a>
@@ -156,47 +161,50 @@ nav: true
   <p>Protective behavior exhibited by people with chronic pain (CP) during physical activities is very informative to understanding their physical and emotional states. Existing automatic protective behavior detection (PBD) methods rely on pre-segmentation of activities predefined by users. However, in real life, people perform activities casually. Therefore, where those activities present difficulties for people with chronic pain, technology-enabled support should be delivered continuously and automati- cally adapted to activity type and occurrence of protective behavior. Hence, to facilitate ubiquitous CP management, it becomes critical to enable accurate PBD over continuous data. In this paper, we propose to integrate human activity recognition (HAR) with PBD via a novel hierarchical HAR-PBD architecture comprising graph-convolution and long short-term memory (GC-LSTM) networks, and alleviate class imbalances using a class-balanced focal categorical cross-entropy (CFCC) loss. Through in-depth evaluation of the approach using a CP patients’ dataset, we show that the leveraging of HAR, GC-LSTM networks, and CFCC loss leads to clear increase in PBD performance against the baseline (macro F1 score of 0.81 vs. 0.66 and precision-recall area-under-the-curve (PR-AUC) of 0.60 vs. 0.44). We conclude by discussing possible use cases of the hierarchical architecture in CP management and beyond. We also discuss current limitations and ways forward.</p>
   </div>
 
-  </div>
+</div>
 </div>
 </li>
 <!-----------------------------------------------------      2021 Paper 2 end     ----------------------------------------------------->
 
-
-
 <!-----------------------------------------------------     2021 Paper 3 start    ----------------------------------------------------->
+
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://dl.acm.org/doi/abs/10.1145/3449068"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACMHEALTH_3.png" alt="ACMHEALTH_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Chronic-Pain Protective Behavior Detection with Deep Learning
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
 
   <em>Wang, Chongyang</em>, 
 
   <a href="https://uclic.ucl.ac.uk/people/temitayo-olugbade" target="_blank">Olugbade, Temitayo A</a>,
-                          
+
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur, Akhil</a>,
 
   <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
-                              
+
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>ACM Transactions on Computing for Healthcare</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">ACM HEALTH</abbr>
   </a>
@@ -214,7 +222,9 @@ nav: true
 </ol>
 
 <!----------------------------------------------------------------------------->
+
 <!---------------------------------2021---------------------------------------->
+
 <!----------------------------------------------------------------------------->
 
 <h2 class="year">2020</h2>
@@ -224,36 +234,40 @@ nav: true
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid/AKMNet-Micro-Expression"><img class="img-fluid z-depth-1 rounded" src="/assets/img/IEEEMM_1.png" alt="IEEEMM_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Recognizing Micro-Expression in Video Clip with Adaptive Key-Frame Mining
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
 
   <em>Wang Chongyang</em>,  
 
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,
-                          
+
   <a href="https://uclic.ucl.ac.uk/people/tao-bi" target="_blank">Tao Bi</a>,
-                                      
+
   <a>Chen Tong</a>,
-                               
+
   <a>Yu Shi</a>,
 
   and <a>Zhou Xiangdong</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>IEEE Transactions on MultiMeida (In Review)</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">IEEE TMM</abbr>
   </a>
@@ -270,35 +284,40 @@ nav: true
 <!-----------------------------------------------------      2020 Paper 1 end     ----------------------------------------------------->
 
 <!-----------------------------------------------------     2020 Paper 2 start    ----------------------------------------------------->
+
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid/Micro-Attention-for-Micro-Expression"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Neurocom_1.png" alt="Neurocom_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Micro-Attention for Micro-Expression Recognition
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
 
   <em>Wang Chongyang</em>,  
 
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
-                          
+
   <a href="https://uclic.ucl.ac.uk/people/tao-bi" target="_blank">Tao Bi</a>,
-                                      
+
   and <a>Chen Tong</a>       
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>Neurocomputing</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">Neurocomputing</abbr>
   </a>
@@ -316,7 +335,9 @@ nav: true
 </ol>
 
 <!----------------------------------------------------------------------------->
+
 <!---------------------------------2020---------------------------------------->
+
 <!----------------------------------------------------------------------------->
 
 <h2 class="year">2019</h2>
@@ -326,34 +347,38 @@ nav: true
   <!-- ----Picture with link---- -->
   <a href="https://dl.acm.org/doi/abs/10.1145/3341163.3347728"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ISWC_1.png" alt="ISWC_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Recurrent Network based Automatic Detection of Chronic Pain Protective Behavior using Mocap and sEMG Data
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <em>Wang Chongyang</em>,
 
   <a href="https://uclic.ucl.ac.uk/people/temitayo-olugbade" target="_blank">Olugbade Temitayo A</a>,
-                          
+
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur Akhil</a>,
-                                      
+
   <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
-                              
+
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>ACM International Joint Conference on Pervasive and Ubiquitous Computing</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">ISWC/Ubicomp</abbr>
   </a>
@@ -370,39 +395,44 @@ nav: true
 <!-----------------------------------------------------      2019 Paper 1 end     ----------------------------------------------------->
 
 <!-----------------------------------------------------     2019 Paper 2 start    ----------------------------------------------------->
+
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid/BodyAttentionNetwork"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACII_1.png" alt="ACII_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Learning Temporal and Bodily Attention in Protective Movement Behavior Detection
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
 
   <em>Wang Chongyang</em>,  
 
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
-                          
+
   <a href="https://uclic.ucl.ac.uk/people/temitayo-olugbade" target="_blank">Olugbade Temitayo A</a>,
-                                                            
+
   <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
-                              
+
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">ACII</abbr>
   </a>
@@ -419,38 +449,43 @@ nav: true
 <!-----------------------------------------------------      2019 Paper 2 end     ----------------------------------------------------->
 
 <!-----------------------------------------------------     2019 Paper 3 start    ----------------------------------------------------->
+
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid/ACII19-Apex-Time-Network"><img class="img-fluid z-depth-1 rounded" src="/assets/img/ACII_2.png" alt="ACII_2_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">A Novel Apex-Time Network for Cross-Dataset Micro-Expression Recognition
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
 
   <em>Wang Chongyang</em>,  
-                          
+
   <a href="https://uclic.ucl.ac.uk/people/tao-bi" target="_blank">Tao Bi</a>,
-                                      
+
   <a>Zhou Xiangdong</a>,
-                               
+
   <a>Yu Shi</a>,
 
   and <a>Chen Tong</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>8th International Conference on Affective Computing and Intelligent Interaction (ACII)</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">ACII</abbr>
   </a>
@@ -468,7 +503,9 @@ nav: true
 </ol>
 
 <!----------------------------------------------------------------------------->
+
 <!---------------------------------2019---------------------------------------->
+
 <!----------------------------------------------------------------------------->
 
 <h2 class="year">2018</h2>
@@ -478,14 +515,16 @@ nav: true
   <!-- ----Picture with link---- -->
   <a href="https://ieeexplore.ieee.org/abstract/document/8373920"><img class="img-fluid z-depth-1 rounded" src="/assets/img/FG_1.png" alt="FG_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Attention based Residual Network for Micro-Gesture Recognition
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
 
   <em>Wang Chongyang</em>,  
@@ -493,13 +532,15 @@ nav: true
   and <a>Chen Tong</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>13th IEEE International Conference on Automatic Face & Gesture Recognition</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">FG</abbr>
   </a>
@@ -517,7 +558,9 @@ nav: true
 </ol>
 
 <!----------------------------------------------------------------------------->
+
 <!---------------------------------2018---------------------------------------->
+
 <!----------------------------------------------------------------------------->
 
 <h2 class="year">2017</h2>
@@ -527,32 +570,36 @@ nav: true
   <!-- ----Picture with link---- -->
   <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01745/full"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Frontiers_1.png" alt="Frontiers_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">Dual Temporal Scale Convolutional Neural Network for Micro-Expression Recognition
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
 
   <em>Wang Chongyang</em>,  
-                                      
+
   <a>Chen Tong</a>,
-                               
+
   <a>Liu Guangyuan</a>,
 
   and <a>Fu Xiaolan</a>        
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>Frontiers in psychology</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">Frontiers</abbr>
   </a>
@@ -569,34 +616,39 @@ nav: true
 <!-----------------------------------------------------      2017 Paper 1 end     ----------------------------------------------------->
 
 <!-----------------------------------------------------     2017 Paper 2 start    ----------------------------------------------------->
+
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://www.mdpi.com/2078-2489/7/4/61"><img class="img-fluid z-depth-1 rounded" src="/assets/img/Information_1.png" alt="Information_1_ChongyangWang" style="width:180pt">
   </a>
-  
-  <!-- ----      Title      ---- -->
-  <div id="wang2020leveraging" class="col-sm-8">
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2020leveraging" class="col-sm-8">
   <div class="title">NIRFacenet: A Convolutional Neural Network for Near-Infrared Face Identification
   </div>
 
-  <!-- ----      Author     ---- -->
-  <div class="author">
+<!-- ----      Author     ---- -->
+
+<div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
 
   <em>Wang Chongyang</em>,  
-                       
+
   <a>Chen Tong</a>,
-                                      
+
   and <a>Liu Guangyuan</a>       
   </div>
 
-  <!-- ----      Journal      ---- -->
-  <div class="periodical"> 
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
   <em>Information</em>    
   </div>
 
-  <!-- ---- Badge/Abstract/PDF ---- -->
-  <div class="links">
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
   <a class="col-sm-2 abbr">
   <abbr class="badge">MDPI</abbr>
   </a>
@@ -614,7 +666,9 @@ nav: true
 </ol>
 
 <!----------------------------------------------------------------------------->
+
 <!---------------------------------2017---------------------------------------->
+
 <!----------------------------------------------------------------------------->
 
 </div>
