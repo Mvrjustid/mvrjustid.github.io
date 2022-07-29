@@ -21,7 +21,54 @@ nav: true
 
 <h2 class="year">2022</h2>
 <ol class="bibliography">
+
 <!-----------------------------------------------------     2022 Paper 1 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
+  <a href="https://github.com/Mvrjustid"><img class="img-responsive z-depth-1 rounded" src="/assets/img/ACII_3.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="cen2022ACII" class="col-sm-8">
+  <div class="title">Exploring Multimodal Fusion for Continuous Protective Behavior Detection
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <em>Cen Guanting</em>,
+  <em>Wang Chongyang</em>,
+  <a href="https://uclic.ucl.ac.uk/people/temitayo-olugbade" target="_blank">Olugbade, Temitayo A</a>,
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>         
+  </div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>10th International Conference on Affective Computing and Intelligent Interaction (ACII)</em>    
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">ACII</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  </div>
+  <div class="abstract hidden">
+  <p>Chronic pain is a prevalent condition that affects everyday life of people around the world. Protective behaviors (strategies that are naturally but unhelpfully adopted by people with chronic pain to cope with fear of pain in executing harmless everyday movements) can lead to further disability over time if not recognized and addressed appropriately. In this paper, we build on previous work on unimodal, activity-independent, time-continuous protective behavior detection (PBD) by focusing on the fusion of muscle activity and body movement modalities for characterizing both protective behavior and its physical activity context. We explore different fusion strategies based on consideration of the manner in which protective behavior influences muscle activity and overt body movement, as well as the relationship between the two modalities. We evaluate the various strategies on the multimodal EmoPain dataset containing data from people with and without chronic pain engaged in physical activities that reflect everyday challenges for those with chronic pain. Our results show that a central (model-level) fusion approach leads to better PBD performances than input- and decision-level fusions, or unimodal approaches. We also show that the use of an attention mechanism, typifying shifts in attention characteristic of protective behavior, further improves the sensitivity of the model, i.e. detection of the positive class (which is the minority class). We analyze these results and suggest that fusion in modelling a motor condition should consider how the emotional responses (fear of movement and pain in this case) triggered by a condition affects each of the given modalities and hence their contributions to the modelling task.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2022 Paper 1 end     ----------------------------------------------------->
+
+<!-----------------------------------------------------     2022 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a href="https://github.com/Mvrjustid/MHN-IJCAI22"><img class="img-responsive z-depth-1 rounded" src="/assets/img/IJCAI_1.png" style="width:180pt">
@@ -65,7 +112,7 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2022 Paper 1 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2022 Paper 2 end     ----------------------------------------------------->
 </ol>
 
 <h2 class="year">2021</h2>
@@ -92,7 +139,7 @@ nav: true
   <a href="" target="_blank">Tin Lun Lam</a>,                                                                                               
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,                              
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
-  </div>
+</div>
 
 <!-- ----      Journal      ---- -->
 
@@ -373,7 +420,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>ACM International Joint Conference on Pervasive and Ubiquitous Computing</em>    
+  <em>International Symposium on Wearable Computers (ISWC)</em>    
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -427,7 +474,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos</em>    
+  <em>8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)</em>    
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -535,7 +582,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>13th IEEE International Conference on Automatic Face & Gesture Recognition</em>    
+  <em>13th IEEE International Conference on Automatic Face & Gesture Recognition (FG)</em>    
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
