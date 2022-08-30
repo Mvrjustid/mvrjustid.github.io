@@ -128,24 +128,25 @@ keep_files:
 
 # Plug-ins
 plugins:
-  # - jekyll-email-protect
-  # - jekyll-github-metadata
-  # - jekyll-paginate-v2
-  # - jekyll/scholar
-  # - jekyll-twitter-plugin
-  # - jemoji
-  - jekyll-archives
-  - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-feed
-  - jekyll-imagemagick
-  - jekyll-minifier
+  - jekyll-github-metadata
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-sitemap
-  - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  
+  # - jekyll-archives
+  # - jekyll-diagrams
+  # - jekyll-email-protect
+  # - jekyll-feed
+  # - jekyll-imagemagick
+  # - jekyll-minifier
+  # - jekyll-paginate-v2
+  # - jekyll/scholar
+  # - jekyll-sitemap
+  # - jekyll-target-blank
+  # - jekyll-twitter-plugin
+  # - jemoji
 
 # Extras
 github: [metadata]
@@ -174,27 +175,6 @@ scholar:
   details_link: Details
 
   query: "@*"
-
-# -----------------------------------------------------------------------------
-# Responsive WebP Images
-# -----------------------------------------------------------------------------
-
-imagemagick:
-  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
-  widths:
-    - 180
-    - 480
-    - 800
-    - 1400
-  input_directories:
-    - assets/img/
-  input_formats:
-    - ".jpg"
-    - ".jpeg"
-    - ".png"
-    - ".tiff"
-  output_formats:
-    webp: "-resize 800x"
 
 # -----------------------------------------------------------------------------
 # Optional Features
