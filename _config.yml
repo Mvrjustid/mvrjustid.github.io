@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 
 
-icon: 🧑🏻‍🚀 # the emoji used as the favicon
+icon: 🧑🏻 # the emoji used as the favicon
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -101,6 +101,9 @@ news_limit: 10
 markdown: kramdown
 highlighter: rouge
 highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_light: github
+highlight_theme_dark: native
+
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -125,10 +128,22 @@ keep_files:
 
 # Plug-ins
 plugins:
+  # - jekyll-email-protect
+  # - jekyll-github-metadata
+  # - jekyll-paginate-v2
+  # - jekyll/scholar
+  # - jekyll-twitter-plugin
+  # - jemoji
+  - jekyll-archives
+  - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-github-metadata
+  - jekyll-feed
+  - jekyll-imagemagick
+  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
 
@@ -161,6 +176,27 @@ scholar:
   query: "@*"
 
 # -----------------------------------------------------------------------------
+# Responsive WebP Images
+# -----------------------------------------------------------------------------
+
+imagemagick:
+  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
+  widths:
+    - 180
+    - 480
+    - 800
+    - 1400
+  input_directories:
+    - assets/img/
+  input_formats:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".tiff"
+  output_formats:
+    webp: "-resize 800x"
+
+# -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
@@ -169,7 +205,7 @@ enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
 enable_tooltips:            false
-enable_darkmode:            false
+enable_darkmode:            true
 enable_navbar_social:       false
 
 # -----------------------------------------------------------------------------
