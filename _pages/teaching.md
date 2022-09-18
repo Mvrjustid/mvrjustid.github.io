@@ -56,6 +56,6 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 
 #### Supervision
 Cen Guanting, M.Sc project, UCL, 2021. Awarded with Distinction.\\
-'[Exploring Multimodal Fusion for Continuous Protective Behavior Detection](https://wangchongyang.ai/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf){:target="\_blank"}', a outcome of the project is accepted to ACII'22.\\
+'[Exploring Multimodal Fusion for Continuous Protective Behavior Detection](https://wangchongyang.ai/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf){:target="\_blank"}', a outcome of the project is accepted to ACII'22.
 
 Yi Kexin, B.Eng project, HUST, 2021.
