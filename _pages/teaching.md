@@ -20,7 +20,7 @@ Journal of Signal Processing Systems,
 \\
 **Conference:**
 \\
-Ubicomp'19, 20, 21,\\
+Ubicomp'19, 20, 21, 22\\
 ACII'19, 21, 22,\\
 ICMI'20,21,\\
 SmartCOMP'20 Industry Track,\\
