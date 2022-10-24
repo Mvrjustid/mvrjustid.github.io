@@ -21,6 +21,7 @@ Journal of Signal Processing Systems,
 **Conference:**
 \\
 Ubicomp'19, 20, 21, 23\\
+CHI'23\\
 ICRA'23\\
 ACII'19, 21, 22,\\
 ICMI'20,21,\\
