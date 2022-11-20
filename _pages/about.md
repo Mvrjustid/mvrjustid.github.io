@@ -8,9 +8,9 @@ profile:
   align: right
   image: chongyang.jpg 
   address: >
-    <p> </p>
-    <p> </p>
-    <p> </p>
+    <p>  </p>
+    <p>  </p>
+    <p>  </p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 Chongyang Wang obtained his Ph.D. degree at UCL interaction centre under the supervision of Prof. Nadia Berthouze (UCL) and Prof. Nic Lane (University of Cambridge). Prof. Amanda Williams (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
 
- His research focus on ubiquitous and affective computing for intelligent healthcare. He has been working on the intelligent rehabilitation for people with chronic pain since 2017. He is particularly interested in bodily movement sensing that could drive research in healthcare and beyond.
+His research focus on ubiquitous and affective computing for intelligent healthcare. He has been working on the intelligent rehabilitation for people with chronic pain since 2017. He is particularly interested in bodily movement sensing that could drive research in healthcare and beyond.
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
