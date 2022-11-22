@@ -25,6 +25,52 @@ nav: true
 <!-----------------------------------------------------     2022 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/AAAI_1.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="cen2022ACII" class="col-sm-8">
+  <div class="title">Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
+  <em>Wang Chongyang</em>,               
+  <a>Yu Shi</a>,
+  and <a>Zhou Xiangdong</a>              
+  </div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>37th AAAI Conference on Artificial Intelligence (AAAI)</em>    
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">AAAI</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/Efficient_End_to_End_Video_Question_Answering_with_Pyramidal_Multimodal_Transformer___AAAI23.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+  <!-- <a href="https://github.com/Mvrjustid/Multimodal-Fusion-HAR-PBD" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>    -->
+  </div>
+  <div class="abstract hidden">
+  <p>This paper presents a new method for end-to-end Video Question Answering (VideoQA), aside from the current popularity of using large-scale pre-training with huge feature extractors. We achieve this with a pyramidal multimodal transformer (PMT) model, which simply incorporates a learnable word embedding layer, a few convolutional and transformer layers. We use the anisotropic pyramid to fulfill video-language interactions across different spatio-temporal scales. In addition to the canonical pyramid, which includes both bottom-up and top-down pathways with lateral connections, novel strategies are proposed to decompose the visual feature stream into spatial and temporal sub-streams at different scales and implement their interactions with the linguistic semantics while preserving the integrity of local and global semantics. We demonstrate better or on-par performances with high computational efficiency against state-of-the-art methods on five VideoQA benchmarks. Our ablation study shows the scalability of our model that achieves competitive results for text-to-video retrieval by leveraging feature extractors with reusable pre-trained weights, and also the effectiveness of the pyramid.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2022 Paper 1 end     ----------------------------------------------------->
+
+<!-----------------------------------------------------     2022 Paper 2 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/ACII_3.png" style="width:180pt">
   </a>
 
@@ -67,9 +113,9 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2022 Paper 1 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2022 Paper 2 end     ----------------------------------------------------->
 
-<!-----------------------------------------------------     2022 Paper 2 start    ----------------------------------------------------->
+<!-----------------------------------------------------     2022 Paper 3 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/IJCAI_1.png" style="width:180pt">
@@ -114,7 +160,7 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2022 Paper 2 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2022 Paper 3 end     ----------------------------------------------------->
 </ol>
 
 <h2 class="year">2021</h2>
