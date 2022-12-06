@@ -20,16 +20,15 @@ social: false  # includes social icons at the bottom of the page
 
 **ubiquitous computing**, **affective computing**, **AI for healthcare** 
 
-Chongyang Wang is a postdoc researcher at [Pervasive HCI Laboratory](https://pi.cs.tsinghua.edu.cn/){:target="\_blank"} of Tsinghua University. He obtained his Ph.D. degree at UCL interaction centre under the supervision of Prof. Nadia Berthouze (UCL) and Prof. Nic Lane (University of Cambridge). Prof. Amanda Williams (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
+Chongyang Wang is a postdoc researcher at [Pervasive HCI Laboratory](https://pi.cs.tsinghua.edu.cn/){:target="\_blank"} of Tsinghua University. He obtained his Ph.D. degree at [UCL interaction centre](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"} under the supervision of [Prof. Nadia Berthouze](https://uclic.ucl.ac.uk/people/nadia-berthouze){:target="\_blank"} (UCL) and [Prof. Nic Lane](http://niclane.org/){:target="\_blank"} (University of Cambridge). [Prof. Amanda Williams](https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams){:target="\_blank"} (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
 
 His research focus on ubiquitous and affective computing for intelligent healthcare. He has been working on the intelligent rehabilitation for people with chronic pain since 2017. He is particularly interested in bodily movement sensing that could drive research in healthcare and beyond.
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
-[UCL page](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"}\\
 [Google scholar](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en){:target="\_blank"}\\
 [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
-[CV](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
+[Resume](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
 [Contact](mailto:chongyang.wang.17@ucl.ac.uk){:target="\_blank"}
 
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
