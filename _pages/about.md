@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoc Researcher, Tsinghua University
+description: Postdoc Researcher, Shuimu Scholar, Tsinghua University
 
 profile:
   align: right
@@ -29,7 +29,7 @@ His research focus on ubiquitous and affective computing for intelligent healthc
 [Google scholar](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en){:target="\_blank"}\\
 [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
 [Resume](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
-[Contact](mailto:chongyang.wang.17@ucl.ac.uk){:target="\_blank"}
+[Contact](mailto:wangchongyang@mail.tsinghua.edu.cn){:target="\_blank"}
 
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
 
