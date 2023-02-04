@@ -8,9 +8,9 @@ profile:
   align: right
   image: chongyang.jpg 
   address: >
-    <p> Room 526 </p>
+    <p> Room 3-526 </p>
     <p> FIT building </p>
-    <p> Tsinghua University Beijing, China </p>
+    <p> Tsinghua University</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
