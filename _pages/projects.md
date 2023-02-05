@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My current research focus on leveraging AI for intelligent chronic pain rehabilitation.
+description: Stay tuned for details about my latest projects.
 nav: true
 display_categories: [work, fun]
 horizontal: false

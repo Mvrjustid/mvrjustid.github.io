@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Protective behavior detection
-description: The role of AI in chronic-pain management （part 1）
+description: The role of AI in chronic-pain management （part 1, completed within my PhD）
 img: /assets/img/avatars_2.png
 importance: 1
 category: research
