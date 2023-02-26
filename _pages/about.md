@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-**ubiquitous computing**, **affective computing**, **AI for healthcare** 
+<img src="/assets/img/tsinghua.svg" width="15" height="15">  **ubiquitous computing**, **affective computing**, **AI for healthcare** 
 
 Chongyang Wang is a postdoc researcher at [Pervasive HCI Laboratory](https://pi.cs.tsinghua.edu.cn/){:target="\_blank"} of Tsinghua University, where he is working with [Dr. Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/) on active sensing and interaction. He obtained his Ph.D. degree at [UCL interaction centre](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"} under the supervision of [Prof. Nadia Berthouze](https://uclic.ucl.ac.uk/people/nadia-berthouze){:target="\_blank"} (UCL) and [Prof. Nic Lane](http://niclane.org/){:target="\_blank"} (University of Cambridge). [Prof. Amanda Williams](https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams){:target="\_blank"} (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
 
@@ -26,10 +26,10 @@ His research focus on ubiquitous and affective computing for intelligent healthc
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
-<img src="/assets/img/google.svg" width="15" height="15"> [Google scholar](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en){:target="\_blank"}\\
-<img src="/assets/img/square-github.svg" width="15" height="15"> [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
-<img src="/assets/img/file-lines.svg" width="15" height="15"> [Resume](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
-<img src="/assets/img/envelope.svg" width="15" height="15"> [Contact](mailto:wangchongyang@tsinghua.edu.cn){:target="\_blank"}
+<img src="/assets/img/google.svg" width="15" height="15">  [Google scholar](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en){:target="\_blank"}\\
+<img src="/assets/img/square-github.svg" width="15" height="15">  [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
+<img src="/assets/img/file-lines.svg" width="15" height="15">  [Resume](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
+<img src="/assets/img/envelope.svg" width="15" height="15">  [Contact](mailto:wangchongyang@tsinghua.edu.cn){:target="\_blank"}
 
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
 
