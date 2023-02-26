@@ -26,10 +26,10 @@ His research focus on ubiquitous and affective computing for intelligent healthc
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
-[Google scholar](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en){:target="\_blank"}\\
-[Github](https://github.com/Mvrjustid){:target="\_blank"}\\
-[Resume](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
-[Contact](mailto:wangchongyang@tsinghua.edu.cn){:target="\_blank"}
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google.svg" width="50" height="50"> [Google scholar](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en){:target="\_blank"}\\
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/square-github.svg" width="50" height="50"> [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file.svg" width="50" height="50"> [Resume](/assets/pdf/ChongyangWang_CV.pdf){:target="\_blank"}\\
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/envelope.svg" width="50" height="50"> [Contact](mailto:wangchongyang@tsinghua.edu.cn){:target="\_blank"}
 
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
 
