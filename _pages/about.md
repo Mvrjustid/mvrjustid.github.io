@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoc Researcher, Shuimu Scholar, Tsinghua University
+description: Postdoc Researcher, Shuimu Scholar, Tsinghua University  <img src="/assets/img/tsinghua.svg" width="15" height="15">
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-<img src="/assets/img/tsinghua.svg" width="15" height="15">  **ubiquitous computing**, **affective computing**, **AI for healthcare** 
+**ubiquitous computing**, **affective computing**, **AI for healthcare** 
 
 Chongyang Wang is a postdoc researcher at [Pervasive HCI Laboratory](https://pi.cs.tsinghua.edu.cn/){:target="\_blank"} of Tsinghua University, where he is working with [Dr. Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/) on active sensing and interaction. He obtained his Ph.D. degree at [UCL interaction centre](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"} under the supervision of [Prof. Nadia Berthouze](https://uclic.ucl.ac.uk/people/nadia-berthouze){:target="\_blank"} (UCL) and [Prof. Nic Lane](http://niclane.org/){:target="\_blank"} (University of Cambridge). [Prof. Amanda Williams](https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams){:target="\_blank"} (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
 
