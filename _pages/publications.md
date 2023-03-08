@@ -25,6 +25,55 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/Learn2Agree.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="wang2021Agree" class="col-sm-8">
+  <div class="title">Learn2Agree: Fitting with Multiple Annotators without Objective Ground Truth
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <em>Wang, Chongyang</em>,                        
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,                
+  <a href="" target="_blank">Fan, Chenyou</a>,
+  <a href="" target="_blank">Hu, Junjie</a>,
+  <a href="" target="_blank">Tin Lun Lam</a>,                                                                                               
+  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,                              
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>Trustworthy Machine Learning for Healthcare Workshop at International Conference on Learning Representations (ICLR-TML4H)</em>    
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">ICLR workshop</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/Learn2Agree_Fitting_with_Multiple_Annotators_without_Objective_Ground_Truth.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  </div>
+  <div class="abstract hidden">
+  <p>The annotation of domain experts is important for some medical applications where the objective ground truth is ambiguous to define, e.g., the rehabilitation for some chronic diseases, and the prescreening of some musculoskeletal abnormalities without further medical examinations. However, improper uses of the annotations may hinder developing reliable models. On one hand, forcing the use of a single ground truth generated from multiple annotations is less informative for the modeling. On the other hand, feeding the model with all the annotations without proper regularization is noisy given existing disagreements. For such issues, we propose a novel Learning to Agreement (Learn2Agree) framework to tackle the challenge of learning from multiple annotators without objective ground truth. The framework has two streams, with one stream fitting with the multiple annotators and the other stream learning agreement information between annotators. In particular, the agreement learning stream produces regularization information to the classifier stream, tuning its decision to be better in line with the agreement between annotators. The proposed method can be easily added to existing backbones, with experiments on two medical datasets showed better agreement levels with annotators.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2023 Paper 1 end     ----------------------------------------------------->
+
+
+<!-----------------------------------------------------     2023 Paper 2 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/AAAI_1.png" style="width:180pt">
   </a>
 
@@ -66,7 +115,7 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2023 Paper 1 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2023 Paper 2 end     ----------------------------------------------------->
 </ol>
 
 <h2 class="year">2022</h2>
@@ -168,55 +217,8 @@ nav: true
 
 <h2 class="year">2021</h2>
 <ol class="bibliography">
+
 <!-----------------------------------------------------     2021 Paper 1 start    ----------------------------------------------------->
-<li><div class="row">
-  <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/Learn2Agree.png" style="width:180pt">
-  </a>
-
-<!-- ----      Title      ---- -->
-
-<div id="wang2021Agree" class="col-sm-8">
-  <div class="title">Learn2Agree: Fitting with Multiple Annotators without Objective Ground Truth
-  </div>
-
-<!-- ----      Author     ---- -->
-
-<div class="author">
-  <em>Wang, Chongyang</em>,                        
-  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,                
-  <a href="" target="_blank">Fan, Chenyou</a>,
-  <a href="" target="_blank">Hu, Junjie</a>,
-  <a href="" target="_blank">Tin Lun Lam</a>,                                                                                               
-  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,                              
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
-</div>
-
-<!-- ----      Journal      ---- -->
-
-<div class="periodical"> 
-  <em>ArXiv Preprint.</em>    
-  </div>
-
-<!-- ---- Badge/Abstract/PDF ---- -->
-
-<div class="links">
-  <a class="col-sm-2 abbr">
-  <abbr class="badge">ArXiv</abbr>
-  </a>
-  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-  <a href="/assets/pdf/Learn2Agree_Fitting_with_Multiple_Annotators_without_Objective_Ground_Truth.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
-  </div>
-  <div class="abstract hidden">
-  <p>The annotation of domain experts is important for some medical applications where the objective ground truth is ambiguous to define, e.g., the rehabilitation for some chronic diseases, and the prescreening of some musculoskeletal abnormalities without further medical examinations. However, improper uses of the annotations may hinder developing reliable models. On one hand, forcing the use of a single ground truth generated from multiple annotations is less informative for the modeling. On the other hand, feeding the model with all the annotations without proper regularization is noisy given existing disagreements. For such issues, we propose a novel Learning to Agreement (Learn2Agree) framework to tackle the challenge of learning from multiple annotators without objective ground truth. The framework has two streams, with one stream fitting with the multiple annotators and the other stream learning agreement information between annotators. In particular, the agreement learning stream produces regularization information to the classifier stream, tuning its decision to be better in line with the agreement between annotators. The proposed method can be easily added to existing backbones, with experiments on two medical datasets showed better agreement levels with annotators.</p>
-  </div>
-
-</div>
-</div>
-</li>
-<!-----------------------------------------------------      2021 Paper 1 end     ----------------------------------------------------->
-
-<!-----------------------------------------------------     2021 Paper 2 start    ----------------------------------------------------->
 
 <li><div class="row">
   <!-- ----Picture with link---- -->
@@ -263,9 +265,9 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2021 Paper 2 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2021 Paper 1 end     ----------------------------------------------------->
 
-<!-----------------------------------------------------     2021 Paper 3 start    ----------------------------------------------------->
+<!-----------------------------------------------------     2021 Paper 2 start    ----------------------------------------------------->
 
 <li><div class="row">
   <!-- ----Picture with link---- -->
@@ -317,7 +319,7 @@ nav: true
   </div>
 </div>
 </li>
-<!-----------------------------------------------------      2021 Paper 3 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2021 Paper 2 end     ----------------------------------------------------->
 </ol>
 
 <!----------------------------------------------------------------------------->
