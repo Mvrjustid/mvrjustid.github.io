@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoc Researcher, Shuimu Scholar, Tsinghua University    <img src="/assets/img/tsinghua.svg" width="15" height="15">    <img src="/assets/img/UCL.png" width="46" height="15">    <img src="/assets/img/SWU.png" width="15" height="15">
+description: Postdoc Researcher, Shuimu Scholar, Tsinghua University    <img src="/assets/img/tsinghua.svg" width="15" height="15">    <img src="/assets/img/UCL2.png" width="12" height="15">    <img src="/assets/img/SWU.png" width="15" height="15">
 profile:
   align: right
   image: chongyang.jpg 
