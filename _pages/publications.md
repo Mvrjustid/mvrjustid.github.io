@@ -25,7 +25,7 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/TRO-1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/TRO_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
