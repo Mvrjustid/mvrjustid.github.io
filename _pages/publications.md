@@ -25,6 +25,55 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/TRO-1.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="Gao2023SelfPlay" class="col-sm-8">
+  <div class="title">Asymmetric Self-Play-Enabled Intelligent Heterogeneous Multirobot Catching System Using Deep Multiagent Reinforcement Learning
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
+  <a href="" target="_blank">Chen, Junfeng</a>,
+  <a href="" target="_blank">Chen, Xi</a>,
+  <em>Wang, Chongyang</em>,
+  <a href="" target="_blank">Hu, Junjie</a>,
+  <a href="" target="_blank">Deng, Fuqin</a>,
+  and <a href="" target="_blank">Tin Lun Lam</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>IEEE Transactions on Robotics</em>    
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">IEEE T-RO</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/Asymmetric_Self-Play-Enabled_Intelligent_Heterogeneous_Multirobot_Catching_System_Using_Deep_Multiagent_Reinforcement_Learning.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  </div>
+  <div class="abstract hidden">
+  <p>Aiming to develop a more robust and intelligent heterogeneous system for adversarial catching in security and rescue tasks, in this article, we discuss the specialities of applying asymmetric self-play and curriculum learning techniques to deal with the increasing heterogeneity and number of different robots in modern heterogeneous multirobot systems (HMRS). Our method, based on actor-critic multiagent reinforcement learning, provides a framework that can enable cooperative behaviors among heterogeneous multirobot teams. This leads to the development of an HMRS for complex catching scenarios that involve several robot teams and real-world constraints. We conduct simulated experiments to evaluate different mechanisms' influence on our method's performance, and real-world experiments to assess our system's performance in complex real-world catching problems. In addition, a bridging study is conducted to compare our method with a state-of-the-art method called S2M2 in heterogeneous catching problems, and our method performs better in adversarial settings. As a result, we show that the proposed framework, through fusing asymmetric self-play and curriculum learning during training, is able to successfully complete the HMRS catching task under realistic constraints in both simulation and the real world, thus providing a direction for future large-scale intelligent security & rescue HMRS.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2023 Paper 1 end     ----------------------------------------------------->
+
+
+<!-----------------------------------------------------     2023 Paper 2 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/Learn2Agree.png" style="width:180pt">
   </a>
 
@@ -37,13 +86,13 @@ nav: true
 <!-- ----      Author     ---- -->
 
 <div class="author">
-  <em>Wang, Chongyang</em>,                        
-  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,                
+  <em>Wang, Chongyang</em>,
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
   <a href="" target="_blank">Fan, Chenyou</a>,
   <a href="" target="_blank">Hu, Junjie</a>,
-  <a href="" target="_blank">Tin Lun Lam</a>,                                                                                               
-  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,                              
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
+  <a href="" target="_blank">Tin Lun Lam</a>,       
+  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,      
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
 </div>
 
 <!-- ----      Journal      ---- -->
@@ -68,10 +117,10 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2023 Paper 1 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2023 Paper 2 end     ----------------------------------------------------->
 
 
-<!-----------------------------------------------------     2023 Paper 2 start    ----------------------------------------------------->
+<!-----------------------------------------------------     2023 Paper 3 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/AAAI_1.png" style="width:180pt">
@@ -87,9 +136,9 @@ nav: true
 
 <div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
-  <em>Wang Chongyang</em>,               
+  <em>Wang Chongyang</em>,       
   <a>Yu Shi</a>,
-  and <a>Zhou Xiangdong</a>              
+  and <a>Zhou Xiangdong</a>      
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -115,7 +164,7 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2023 Paper 2 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2023 Paper 3 end     ----------------------------------------------------->
 </ol>
 
 <h2 class="year">2022</h2>
@@ -139,7 +188,7 @@ nav: true
   <em>Wang Chongyang</em>,
   <a href="https://uclic.ucl.ac.uk/people/temitayo-olugbade" target="_blank">Olugbade, Temitayo A</a>,
   <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>         
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a> 
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -184,7 +233,7 @@ nav: true
 <div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
   <em>Wang Chongyang</em>,  
-  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,                
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,
   <a>Yu Shi</a>,
   and <a>Zhou Xiangdong</a>       
   </div>
@@ -234,12 +283,12 @@ nav: true
 <!-- ----      Author     ---- -->
 
 <div class="author">
-  <em>Wang, Chongyang</em>,                        
-  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,                
+  <em>Wang, Chongyang</em>,
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur, Akhil</a>,
-  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,                                                     
-  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,                              
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
+  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,      
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -294,7 +343,7 @@ nav: true
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
 
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -357,7 +406,7 @@ nav: true
 
   <a>Yu Shi</a>,
 
-  and <a>Zhou Xiangdong</a>        
+  and <a>Zhou Xiangdong</a>
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -470,7 +519,7 @@ nav: true
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
 
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -524,7 +573,7 @@ nav: true
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
 
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>        
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -578,7 +627,7 @@ nav: true
 
   <a>Yu Shi</a>,
 
-  and <a>Chen Tong</a>        
+  and <a>Chen Tong</a>
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -634,7 +683,7 @@ nav: true
 
   <em>Wang Chongyang</em>,  
 
-  and <a>Chen Tong</a>        
+  and <a>Chen Tong</a>
   </div>
 
 <!-- ----      Journal      ---- -->
@@ -693,7 +742,7 @@ nav: true
 
   <a>Liu Guangyuan</a>,
 
-  and <a>Fu Xiaolan</a>        
+  and <a>Fu Xiaolan</a>
   </div>
 
 <!-- ----      Journal      ---- -->
