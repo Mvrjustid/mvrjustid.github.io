@@ -7,7 +7,7 @@ nav: true
 ---
 ---
 
-#### PC Member / Reviewer
+#### Member
 中国计算机学会，人机交互专委会，执行委员
 
 ---
