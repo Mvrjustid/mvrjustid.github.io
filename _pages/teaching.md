@@ -8,6 +8,11 @@ nav: true
 ---
 
 #### PC Member / Reviewer
+中国计算机学会，人机交互专委会，执行委员
+
+---
+
+#### PC Member / Reviewer
 **Journal:**
 \\
 Nature Medicine,\\
