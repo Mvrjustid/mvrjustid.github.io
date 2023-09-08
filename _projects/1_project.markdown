@@ -59,6 +59,8 @@ In the latest work of us, we managed to establish accurate PBD using the continu
 <br/>
 Please refer to the [publication](https://wangchongyang.ai/publications/){:target="\_blank"} page for details of the research and our achievements so far.
 
+Written on April 9th, 2021, when my first IMWUT paper was accepted.
+
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
