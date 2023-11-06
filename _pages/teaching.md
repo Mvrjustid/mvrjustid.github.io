@@ -16,7 +16,7 @@ nav: true
 **Journal:**
 \\
 Nature Medicine,\\
-Artificial Intelligence In Medicine,\\
+Artificial Intelligence in Medicine,\\
 ACM Transactions on Intelligent Systems and Technology,\\
 ACM Transactions on Internet of Things,\\
 IEEE Transactions on Human-Machine Systems,\\
@@ -63,6 +63,8 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
+Lingxiao Zhong, Siqi Zheng, Chi Zhang, Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2023-2024, in progress.
+
 Cen Guanting, M.Sc project, UCL, 2021. Awarded with Distinction.\\
 '[Exploring Multimodal Fusion for Continuous Protective Behavior Detection](https://wangchongyang.ai/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf){:target="\_blank"}', a outcome of the project is accepted to ACII'22.
 
