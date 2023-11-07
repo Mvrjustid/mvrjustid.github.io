@@ -25,6 +25,55 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/Neuroimage_1.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="Zhang2023Decoding" class="col-sm-8">
+  <div class="title">Decoding the Temporal Representation of Facial Expression in Face-selective Regions
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <a href="" target="_blank">Zhang, Zhihao</a>,,
+  <a href="" target="_blank">Chen, Tong</a>,
+  <a href="" target="_blank">Liu, Ye</a>,
+  <em>Wang, Chongyang</em>,
+  <a href="" target="_blank">Zhao, Ke</a>,
+  <a href="" target="_blank">Liu, Changhong</a>,
+  and <a href="" target="_blank">Fu, Xiaolan</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>Neuroimage</em>    
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">Neuroimage</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/Decoding_the_Temporal_Representation_of_Facial_Expression_in_Face-selective_Regions.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  </div>
+  <div class="abstract hidden">
+  <p>The ability of humans to discern facial expressions in a timely manner typically relies on distributed face-selective regions for rapid neural computations. To study the time course in regions of interest for this process, we used magnetoencephalography (MEG) to measure neural responses participants viewed facial expressions depicting seven types of emotions (happiness, sadness, anger, disgust, fear, surprise, and neutral). Analysis of the time-resolved decoding of neural responses in face-selective sources within the inferior parietal cortex (IP-faces), lateral occipital cortex (LO-faces), fusiform gyrus (FG-faces), and posterior superior temporal sulcus (pSTS-faces) revealed that facial expressions were successfully classified starting from ∼100 to 150 ms after stimulus onset. Interestingly, the LO-faces and IP-faces showed greater accuracy than FG-faces and pSTS-faces. To examine the nature of the information processed in these face-selective regions, we entered with facial expression stimuli into a convolutional neural network (CNN) to perform similarity analyses against human neural responses. The results showed that neural responses in the LO-faces and IP-faces, starting ∼100 ms after the stimuli, were more strongly correlated with deep representations of emotional categories than with image level information from the input images. Additionally, we observed a relationship between the behavioral performance and the neural responses in the LO-faces and IP-faces, but not in the FG-faces and lpSTS-faces. Together, these results provided a comprehensive picture of the time course and nature of information involved in facial expression discrimination across multiple face-selective regions, which advances our understanding of how the human brain processes facial expressions.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2023 Paper 1 end     ----------------------------------------------------->
+
+
+<!-----------------------------------------------------     2023 Paper 2 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/TRO_1.png" style="width:180pt">
   </a>
 
@@ -68,10 +117,10 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2023 Paper 1 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2023 Paper 2 end     ----------------------------------------------------->
 
 
-<!-----------------------------------------------------     2023 Paper 2 start    ----------------------------------------------------->
+<!-----------------------------------------------------     2023 Paper 3 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/Learn2Agree.png" style="width:180pt">
@@ -117,10 +166,10 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2023 Paper 2 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2023 Paper 3 end     ----------------------------------------------------->
 
 
-<!-----------------------------------------------------     2023 Paper 3 start    ----------------------------------------------------->
+<!-----------------------------------------------------     2023 Paper 4 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/AAAI_1.png" style="width:180pt">
@@ -164,7 +213,7 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2023 Paper 3 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2023 Paper 4 end     ----------------------------------------------------->
 </ol>
 
 <h2 class="year">2022</h2>
