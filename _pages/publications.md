@@ -19,6 +19,61 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+<h2 class="year">2024</h2>
+<ol class="bibliography">
+
+<!-----------------------------------------------------     2024 Paper 1 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/IMWUT_2.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="Wang2024Ubiphysio" class="col-sm-8">
+  <div class="title">UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <em>Wang, Chongyang</em>,
+  <a href="" target="_blank">Feng, Yuan</a>,,
+  <a href="" target="_blank">Zhong, Lingxiao</a>,
+  <a href="" target="_blank">Zhu, Siyi</a>,
+  <a href="" target="_blank">Zhang, Chi</a>,
+  <a href="" target="_blank">Zheng, Siqi</a>,
+  <a href="" target="_blank">Liang, Chen</a>,
+  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/" target="_blank">Wang, Yuntao</a>,
+  <a href="" target="_blank">He, Chengqi</a>,
+  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Yu, Chun</a>,
+  and <a href="https://pi.cs.tsinghua.edu.cn/people/#faculty" target="_blank">Yuanchun Shi</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>    
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">IMWUT/Ubicomp</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/UbiPhysio_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  </div>
+  <div class="abstract hidden">
+  <p>We introduce UbiPhysio, a milestone framework that delivers fine-grained action description and feedback in natural language to support people's daily functioning, fitness, and rehabilitation activities. This expert-like capability assists users in properly executing actions and maintaining engagement in remote fitness and rehabilitation programs. Specifically, the proposed UbiPhysio framework comprises a fine-grained action descriptor and a knowledge retrieval-enhanced feedback module. The action descriptor translates action data, represented by a set of biomechanical movement features we designed based on clinical priors, into textual descriptions of action types and potential movement patterns. Building on physiotherapeutic domain knowledge, the feedback module provides clear and engaging expert feedback. We evaluated UbiPhysio's performance through extensive experiments with data from 104 diverse participants, collected in a home-like setting during 25 types of everyday activities and exercises. We assessed the quality of the language output under different tuning strategies using standard benchmarks. We conducted a user study to gather insights from clinical physiotherapists and potential users about our framework. Our initial tests show promise for deploying UbiPhysio in real-life settings without specialized devices.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2024 Paper 1 end     ----------------------------------------------------->
+
 <h2 class="year">2023</h2>
 <ol class="bibliography">
 
