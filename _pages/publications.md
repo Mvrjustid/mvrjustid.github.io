@@ -38,14 +38,14 @@ nav: true
 
 <div class="author">
   <em>Wang, Chongyang</em>,
-  <a href="" target="_blank">Feng, Yuan</a>,,
-  <a href="" target="_blank">Zhong, Lingxiao</a>,
-  <a href="" target="_blank">Zhu, Siyi</a>,
-  <a href="" target="_blank">Zhang, Chi</a>,
-  <a href="" target="_blank">Zheng, Siqi</a>,
-  <a href="" target="_blank">Liang, Chen</a>,
+  <a>Feng, Yuan</a>,,
+  <a>Zhong, Lingxiao</a>,
+  <a>Zhu, Siyi</a>,
+  <a>Zhang, Chi</a>,
+  <a>Zheng, Siqi</a>,
+  <a>Liang, Chen</a>,
   <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/" target="_blank">Wang, Yuntao</a>,
-  <a href="" target="_blank">He, Chengqi</a>,
+  <a>He, Chengqi</a>,
   <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Yu, Chun</a>,
   and <a href="https://pi.cs.tsinghua.edu.cn/people/#faculty" target="_blank">Yuanchun Shi</a>
 </div>
@@ -92,13 +92,13 @@ nav: true
 <!-- ----      Author     ---- -->
 
 <div class="author">
-  <a href="" target="_blank">Zhang, Zhihao</a>,,
-  <a href="" target="_blank">Chen, Tong</a>,
-  <a href="" target="_blank">Liu, Ye</a>,
+  <a>Zhang, Zhihao</a>,
+  <a>Chen, Tong</a>,
+  <a>Liu, Ye</a>,
   <em>Wang, Chongyang</em>,
-  <a href="" target="_blank">Zhao, Ke</a>,
-  <a href="" target="_blank">Liu, Changhong</a>,
-  and <a href="" target="_blank">Fu, Xiaolan</a>
+  <a>Zhao, Ke</a>,
+  <a>Liu, Changhong</a>,
+  and <a>Fu, Xiaolan</a>
 </div>
 
 <!-- ----      Journal      ---- -->
@@ -142,12 +142,12 @@ nav: true
 
 <div class="author">
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
-  <a href="" target="_blank">Chen, Junfeng</a>,
-  <a href="" target="_blank">Chen, Xi</a>,
+  <a>Chen, Junfeng</a>,
+  <a>Chen, Xi</a>,
   <em>Wang, Chongyang</em>,
-  <a href="" target="_blank">Hu, Junjie</a>,
-  <a href="" target="_blank">Deng, Fuqin</a>,
-  and <a href="" target="_blank">Tin Lun Lam</a>
+  <a>Hu, Junjie</a>,
+  <a>Deng, Fuqin</a>,
+  and <a>Tin Lun Lam</a>
 </div>
 
 <!-- ----      Journal      ---- -->
@@ -192,9 +192,9 @@ nav: true
 <div class="author">
   <em>Wang, Chongyang</em>,
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
-  <a href="" target="_blank">Fan, Chenyou</a>,
-  <a href="" target="_blank">Hu, Junjie</a>,
-  <a href="" target="_blank">Tin Lun Lam</a>,       
+  <a>Fan, Chenyou</a>,
+  <a>Hu, Junjie</a>,
+  <a>Tin Lun Lam</a>,       
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,      
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
 </div>
