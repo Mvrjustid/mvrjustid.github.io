@@ -24,6 +24,10 @@ jobs:
     - name: Install deps
       run: |
         npm install -g mermaid.cli
+    - name: Update Bundler
+      run: gem install bundler
+    - name: Update Gems
+      run: bundle update
     - name: Setup deploy options
       id: setup
       run: |
@@ -39,4 +43,4 @@ jobs:
     - name: Deploy website 
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
