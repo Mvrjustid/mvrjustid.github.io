@@ -144,6 +144,7 @@ DEPENDENCIES
   jekyll-scholar
   jekyll-twitter-plugin
   jemoji
+  sass-embedded (= 1.70.0)
   unicode_utils
   webrick
 
