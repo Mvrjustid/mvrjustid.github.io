@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'sass-embedded', '1.70.0'
     gem 'jekyll'
     gem 'jekyll-email-protect'
     gem 'jekyll-github-metadata'
