@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-gem 'sass-embedded'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-email-protect'
