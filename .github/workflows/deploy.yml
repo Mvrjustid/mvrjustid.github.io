@@ -20,10 +20,12 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.1.2'
-        bundler-cache: true
+        bundler-cache: false
     - name: Install deps
       run: |
         npm install -g mermaid.cli
+    - name: Install Ruby gems
+      run: bundle install  # 添加这一行来安装gems
     - name: Setup deploy options
       id: setup
       run: |
