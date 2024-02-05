@@ -25,6 +25,56 @@ nav: true
 <!-----------------------------------------------------     2024 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/CHI_1.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="Wang2024PepperPose" class="col-sm-8">
+  <div class="title">PepperPose: Full-Body Pose Estimation with a Companion Robot
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <em>Wang, Chongyang</em>,
+  <a>Zheng, Siqi</a>,
+  <a>Zhong, Lingxiao</a>,
+  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Yu, Chun</a>,
+  <a>Liang, Chen</a>,
+  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/" target="_blank">Wang, Yuntao</a>,
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
+  <a>Lam, Tin Lun</a>,
+  and <a href="https://pi.cs.tsinghua.edu.cn/people/#faculty" target="_blank">Yuanchun Shi</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)</em>    
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">CHI-24</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/PepperPose_CHI.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  </div>
+  <div class="abstract hidden">
+  <p>Accurate full-body pose estimation across diverse actions in a user-friendly and location-agnostic manner paves the way for interactive applications in realms like sports, fitness, and healthcare. This task becomes challenging in real-world scenarios due to factors like the user's dynamic positioning, the diversity of actions, and the varying acceptability of the pose-capturing system. In this context, we present PepperPose, a novel companion robot system tailored for optimized pose estimation. Unlike traditional methods, PepperPose actively tracks the user and refines its viewpoint, facilitating enhanced pose accuracy across different locations and actions. This allows users to enjoy a seamless action-sensing experience. Our evaluation, involving 30 participants undertaking daily functioning and exercise actions in a home-like space, underscores the robot's promising capabilities. Moreover, we demonstrate the opportunities that PepperPose presents for human-robot interaction, its current limitations, and future developments.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2024 Paper 1 end     ----------------------------------------------------->
+
+<!-----------------------------------------------------     2024 Paper 2 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/IMWUT_2.png" style="width:180pt">
   </a>
 
@@ -38,7 +88,7 @@ nav: true
 
 <div class="author">
   <em>Wang, Chongyang</em>,
-  <a>Feng, Yuan</a>,,
+  <a>Feng, Yuan</a>,
   <a>Zhong, Lingxiao</a>,
   <a>Zhu, Siyi</a>,
   <a>Zhang, Chi</a>,
@@ -60,7 +110,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">IMWUT/Ubicomp</abbr>
+  <abbr class="badge">IMWUT/Ubicomp-24</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/UbiPhysio_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
@@ -72,7 +122,7 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2024 Paper 1 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2024 Paper 2 end     ----------------------------------------------------->
 
 <h2 class="year">2023</h2>
 <ol class="bibliography">
@@ -209,7 +259,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">ICLR workshop</abbr>
+  <abbr class="badge">ICLR workshop-23</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/Learn2Agree_Fitting_with_Multiple_Annotators_without_Objective_Ground_Truth.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
@@ -255,7 +305,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">AAAI</abbr>
+  <abbr class="badge">AAAI-23</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/Efficient_End_to_End_Video_Question_Answering_with_Pyramidal_Multimodal_Transformer___AAAI23.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
@@ -305,7 +355,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">ACII</abbr>
+  <abbr class="badge">ACII-22</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
@@ -352,7 +402,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">IJCAI</abbr>
+  <abbr class="badge">IJCAI-22</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/Multi_Level_Hierarchical_Network_with_Multi_Scale_Sampling_for_Video_Question_Answering___IJCAI22.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
@@ -405,7 +455,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">IMWUT/Ubicomp</abbr>
+  <abbr class="badge">IMWUT/Ubicomp-21</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/Leveraging_Activity_Recognition_to_Enable_Protective_Behavior_Detection_in_Continuous_Data_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
@@ -636,7 +686,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">ISWC/Ubicomp</abbr>
+  <abbr class="badge">ISWC/Ubicomp-19</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/3341163.3347728.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
@@ -690,7 +740,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">ACII</abbr>
+  <abbr class="badge">ACII-19</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/08925084.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
@@ -744,7 +794,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">ACII</abbr>
+  <abbr class="badge">ACII-19</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/08925525.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
@@ -800,7 +850,7 @@ nav: true
 
 <div class="links">
   <a class="col-sm-2 abbr">
-  <abbr class="badge">FG</abbr>
+  <abbr class="badge">FG-18</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/08373920.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
