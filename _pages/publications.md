@@ -57,7 +57,7 @@ nav: true
 <!-- ---- Badge/Abstract/PDF ---- -->
 
 <div class="links">
-  <a class="col-sm-2 abbr">
+  <a href="https://chi2024.acm.org/" target="_blank" class="col-sm-2 abbr">
   <abbr class="badge">CHI-24</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
