@@ -16,7 +16,9 @@ nav: true
 **Journal:**
 \\
 Nature Medicine,\\
+Computers in Human Behavior,\\
 Artificial Intelligence in Medicine,\\
+Information Processing and Management,\\
 ACM Transactions on Intelligent Systems and Technology,\\
 ACM Transactions on Internet of Things,\\
 IEEE Transactions on Human-Machine Systems,\\
