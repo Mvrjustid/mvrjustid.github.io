@@ -21,8 +21,9 @@ Artificial Intelligence in Medicine,\\
 Information Processing and Management,\\
 ACM Transactions on Intelligent Systems and Technology,\\
 ACM Transactions on Internet of Things,\\
-IEEE Transactions on Human-Machine Systems,\\
+IEEE Transactions on Affective Computing,\\
 IEEE Transactions on MultiMedia,\\
+IEEE Transactions on Human-Machine Systems,\\
 Journal of Signal Processing Systems,
 
 \\
