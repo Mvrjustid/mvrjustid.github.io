@@ -29,14 +29,14 @@ Journal of Signal Processing Systems,
 \\
 **Conference:**
 \\
-Ubicomp'19, 20, 21, 23\\
-CHI'23, 24\\
-ICRA'23\\
-ACII'19, 21, 22, 23\\
-ICMI'20,21,\\
-SmartCOMP'20 Industry Track,\\
-Mobicomp'19,\\
-PerCom'19 Industry Track,
+Ubicomp,\\
+CHI,\\
+ICRA,\\
+ACII,\\
+ICMI,\\
+SmartCOMP,\\
+Mobicomp,\\
+PerCom,
 
 ---
 
@@ -66,7 +66,10 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
-Lingxiao Zhong, Siqi Zheng, Chi Zhang, Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2023-2024, in progress.
+Manqiu Liao, Tianyi Xia, ACSP 2024, in progress.\\
+
+Lingxiao Zhong, Siqi Zheng, Chi Zhang, Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2023-2024, in progress.\\
+Two papers published in CHI'24 and IMWUT/UbiComp'24.\\
 
 Cen Guanting, M.Sc project, UCL, 2021. Awarded with Distinction.\\
 '[Exploring Multimodal Fusion for Continuous Protective Behavior Detection](https://wangchongyang.ai/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf){:target="\_blank"}', a outcome of the project is accepted to ACII'22.
