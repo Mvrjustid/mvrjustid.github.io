@@ -18,6 +18,7 @@ nav: true
 Nature Medicine,\\
 Computers in Human Behavior,\\
 Artificial Intelligence in Medicine,\\
+Pattern Recognition,\\
 Information Processing and Management,\\
 ACM Transactions on Intelligent Systems and Technology,\\
 ACM Transactions on Internet of Things,\\
