@@ -67,7 +67,7 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
-Manqiu Liao, Tianyi Xia, ACSP 2024, in progress.
+Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), Summer Research Program, in progress.
 
 Lingxiao Zhong, Siqi Zheng, Chi Zhang, Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2023-2024, in progress.\\
 Two papers published in CHI'24 and IMWUT/UbiComp'24.
