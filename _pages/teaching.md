@@ -20,6 +20,7 @@ Computers in Human Behavior,\\
 Artificial Intelligence in Medicine,\\
 Pattern Recognition,\\
 Information Processing and Management,\\
+CCF Transactions on Pervasive Computing and Interaction,\\
 ACM Transactions on Intelligent Systems and Technology,\\
 ACM Transactions on Internet of Things,\\
 IEEE Transactions on Affective Computing,\\
@@ -30,14 +31,7 @@ Journal of Signal Processing Systems,
 \\
 **Conference:**
 \\
-Ubicomp,\\
-CHI,\\
-ICRA,\\
-ACII,\\
-ICMI,\\
-SmartCOMP,\\
-Mobicomp,\\
-PerCom,
+Ubicomp, CHI, ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
 
 ---
 
@@ -67,7 +61,7 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
-Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), Summer Research Program, in progress.
+Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.
 
 Lingxiao Zhong, Siqi Zheng, Chi Zhang, Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2023-2024, in progress.\\
 Two papers published in CHI'24 and IMWUT/UbiComp'24.
