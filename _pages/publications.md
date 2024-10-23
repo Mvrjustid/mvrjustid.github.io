@@ -51,7 +51,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)</em>    
+  <em>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -61,7 +61,8 @@ nav: true
   <abbr class="badge">CHI-24</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-  <a href="/assets/pdf/PepperPose_CHI.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  <a href="/assets/pdf/PepperPose_CHI.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+  <a href="https://github.com/Mvrjustid/pepperpose" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>  
   </div>
   <div class="abstract hidden">
   <p>Accurate full-body pose estimation across diverse actions in a user-friendly and location-agnostic manner paves the way for interactive applications in realms like sports, fitness, and healthcare. This task becomes challenging in real-world scenarios due to factors like the user's dynamic positioning, the diversity of actions, and the varying acceptability of the pose-capturing system. In this context, we present PepperPose, a novel companion robot system tailored for optimized pose estimation. Unlike traditional methods, PepperPose actively tracks the user and refines its viewpoint, facilitating enhanced pose accuracy across different locations and actions. This allows users to enjoy a seamless action-sensing experience. Our evaluation, involving 30 participants undertaking daily functioning and exercise actions in a home-like space, underscores the robot's promising capabilities. Moreover, we demonstrate the opportunities that PepperPose presents for human-robot interaction, its current limitations, and future developments.</p>
@@ -103,7 +104,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>    
+  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -113,7 +114,8 @@ nav: true
   <abbr class="badge">IMWUT/Ubicomp-24</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-  <a href="/assets/pdf/UbiPhysio_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
+  <a href="/assets/pdf/UbiPhysio_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+  <a href="https://github.com/Mvrjustid/ubiphysio" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
   <p>We introduce UbiPhysio, a milestone framework that delivers fine-grained action description and feedback in natural language to support people's daily functioning, fitness, and rehabilitation activities. This expert-like capability assists users in properly executing actions and maintaining engagement in remote fitness and rehabilitation programs. Specifically, the proposed UbiPhysio framework comprises a fine-grained action descriptor and a knowledge retrieval-enhanced feedback module. The action descriptor translates action data, represented by a set of biomechanical movement features we designed based on clinical priors, into textual descriptions of action types and potential movement patterns. Building on physiotherapeutic domain knowledge, the feedback module provides clear and engaging expert feedback. We evaluated UbiPhysio's performance through extensive experiments with data from 104 diverse participants, collected in a home-like setting during 25 types of everyday activities and exercises. We assessed the quality of the language output under different tuning strategies using standard benchmarks. We conducted a user study to gather insights from clinical physiotherapists and potential users about our framework. Our initial tests show promise for deploying UbiPhysio in real-life settings without specialized devices.</p>
@@ -153,8 +155,8 @@ nav: true
 
 <!-- ----      Journal      ---- -->
 
-<div class="periodical"> 
-  <em>Neuroimage</em>    
+<div class="periodical">
+  <em>Neuroimage</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -202,8 +204,8 @@ nav: true
 
 <!-- ----      Journal      ---- -->
 
-<div class="periodical"> 
-  <em>IEEE Transactions on Robotics</em>    
+<div class="periodical">
+  <em>IEEE Transactions on Robotics</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -245,14 +247,14 @@ nav: true
   <a>Fan, Chenyou</a>,
   <a>Hu, Junjie</a>,
   <a>Tin Lun Lam</a>,       
-  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,      
+  <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
 </div>
 
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>Trustworthy Machine Learning for Healthcare Workshop at International Conference on Learning Representations (ICLR-TML4H)</em>    
+  <em>Trustworthy Machine Learning for Healthcare Workshop at International Conference on Learning Representations (ICLR-TML4H)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -290,15 +292,15 @@ nav: true
 
 <div class="author">
   <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
-  <em>Wang Chongyang</em>,       
+  <em>Wang Chongyang</em>,
   <a>Yu Shi</a>,
-  and <a>Zhou Xiangdong</a>      
+  and <a>Zhou Xiangdong</a>
   </div>
 
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>37th AAAI Conference on Artificial Intelligence (AAAI)</em>    
+  <em>37th AAAI Conference on Artificial Intelligence (AAAI)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -309,7 +311,7 @@ nav: true
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/Efficient_End_to_End_Video_Question_Answering_with_Pyramidal_Multimodal_Transformer___AAAI23.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
-  <a href="https://github.com/Trunpm/PMT-AAAI23" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>   
+  <a href="https://github.com/Trunpm/PMT-AAAI23" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
   <p>This paper presents a new method for end-to-end Video Question Answering (VideoQA), aside from the current popularity of using large-scale pre-training with huge feature extractors. We achieve this with a pyramidal multimodal transformer (PMT) model, which simply incorporates a learnable word embedding layer, a few convolutional and transformer layers. We use the anisotropic pyramid to fulfill video-language interactions across different spatio-temporal scales. In addition to the canonical pyramid, which includes both bottom-up and top-down pathways with lateral connections, novel strategies are proposed to decompose the visual feature stream into spatial and temporal sub-streams at different scales and implement their interactions with the linguistic semantics while preserving the integrity of local and global semantics. We demonstrate better or on-par performances with high computational efficiency against state-of-the-art methods on five VideoQA benchmarks. Our ablation study shows the scalability of our model that achieves competitive results for text-to-video retrieval by leveraging feature extractors with reusable pre-trained weights, and also the effectiveness of the pyramid.</p>
@@ -341,14 +343,14 @@ nav: true
   <em>Cen Guanting</em>,
   <em>Wang Chongyang</em>,
   <a href="https://uclic.ucl.ac.uk/people/temitayo-olugbade" target="_blank">Olugbade, Temitayo A</a>,
-  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
-  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a> 
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,
+  and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
   </div>
 
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>10th International Conference on Affective Computing and Intelligent Interaction (ACII)</em>    
+  <em>10th International Conference on Affective Computing and Intelligent Interaction (ACII)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -395,7 +397,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>31st International Joint Conferences on Artificial Intelligence (IJCAI)</em>    
+  <em>31st International Joint Conferences on Artificial Intelligence (IJCAI)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -440,15 +442,15 @@ nav: true
   <em>Wang, Chongyang</em>,
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur, Akhil</a>,
-  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,      
   and <a href="https://uclic.ucl.ac.uk/people/nadia-berthouze" target="_blank">Bianchi-Berthouze, Nadia</a>
   </div>
 
 <!-- ----      Journal      ---- -->
 
-<div class="periodical"> 
-  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>    
+<div class="periodical">
+  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -458,8 +460,8 @@ nav: true
   <abbr class="badge">IMWUT/Ubicomp-21</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-  <a href="/assets/pdf/Leveraging_Activity_Recognition_to_Enable_Protective_Behavior_Detection_in_Continuous_Data_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
-  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a> 
+  <a href="/assets/pdf/Leveraging_Activity_Recognition_to_Enable_Protective_Behavior_Detection_in_Continuous_Data_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button"target="_blank">PDF</a>  
+  <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
   <p>Protective behavior exhibited by people with chronic pain (CP) during physical activities is very informative to understanding their physical and emotional states. Existing automatic protective behavior detection (PBD) methods rely on pre-segmentation of activities predefined by users. However, in real life, people perform activities casually. Therefore, where those activities present difficulties for people with chronic pain, technology-enabled support should be delivered continuously and automati- cally adapted to activity type and occurrence of protective behavior. Hence, to facilitate ubiquitous CP management, it becomes critical to enable accurate PBD over continuous data. In this paper, we propose to integrate human activity recognition (HAR) with PBD via a novel hierarchical HAR-PBD architecture comprising graph-convolution and long short-term memory (GC-LSTM) networks, and alleviate class imbalances using a class-balanced focal categorical cross-entropy (CFCC) loss. Through in-depth evaluation of the approach using a CP patients’ dataset, we show that the leveraging of HAR, GC-LSTM networks, and CFCC loss leads to clear increase in PBD performance against the baseline (macro F1 score of 0.81 vs. 0.66 and precision-recall area-under-the-curve (PR-AUC) of 0.60 vs. 0.44). We conclude by discussing possible use cases of the hierarchical architecture in CP management and beyond. We also discuss current limitations and ways forward.</p>
@@ -493,7 +495,7 @@ nav: true
 
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur, Akhil</a>,
 
-  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
 
@@ -577,7 +579,7 @@ nav: true
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/2009.09179.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
-  <a href="https://github.com/Mvrjustid/AKMNet-Micro-Expression" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a> 
+  <a href="https://github.com/Mvrjustid/AKMNet-Micro-Expression" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
   <p>As a spontaneous expression of emotion on face, micro-expression reveals the underlying emotion that cannot be controlled by human. In micro-expression, facial movement is transient and sparsely localized through time. However, the existing representation based on various deep learning techniques learned from a full video clip is usually redundant. In addition, methods utilizing the single apex frame of each video clip require expert annotations and sacrifice the temporal dynamics. To simultaneously localize and recognize such fleeting facial movements, we propose a novel end-to-end deep learning architecture, referred to as adaptive key-frame mining network (AKMNet). Operating on the video clip of micro-expression, AKMNet is able to learn discriminative spatio-temporal representation by combining spatial features of self-learned local key frames and their global-temporal dynamics. Theoretical analysis and empirical evaluation show that the proposed approach improved recognition accuracy in comparison with state-of-the-art methods on multiple benchmark datasets.
@@ -628,7 +630,7 @@ nav: true
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/1-s2.0-S0925231220309711-main.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
-  <a href="https://github.com/Mvrjustid/Micro-Attention-for-Micro-Expression" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a> 
+  <a href="https://github.com/Mvrjustid/Micro-Attention-for-Micro-Expression" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
   <p>Micro-expression, for its high objectivity in emotion detection, has emerged to be a promising modality in affective computing. Recently, deep learning methods have been successfully introduced into the micro-expression recognition area. Whilst the higher recognition accuracy achieved, substantial challenges in micro-expression recognition remain. The existence of micro expression in small-local areas on face and limited size of available databases still constrain the recognition accuracy on such emotional facial behavior. In this work, to tackle such challenges, we propose a novel attention mechanism called micro-attention cooperating with residual network. Micro-attention enables the network to learn to focus on facial areas of interest covering different action units. Moreover, coping with small datasets, the micro-attention is designed without adding noticeable parameters while a simple yet efficient transfer learning approach is together utilized to alleviate the overfitting risk. With extensive experimental evaluations on three benchmarks (CASMEII, SAMM and SMIC) and post-hoc feature visualizations, we demonstrate the effectiveness of the proposed micro-attention and push the boundary of automatic recognition of micro-expression.
@@ -669,7 +671,7 @@ nav: true
 
   <a href="https://akhilmathurs.github.io/" target="_blank">Mathur Akhil</a>,
 
-  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
 
@@ -723,7 +725,7 @@ nav: true
 
   <a href="https://uclic.ucl.ac.uk/people/temitayo-olugbade" target="_blank">Olugbade Temitayo A</a>,
 
-  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,     
+  <a href="https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams" target="_blank">Williams, Amanda C De C</a>,
 
   <a href="http://niclane.org/" target="_blank">Lane, Nicholas D</a>,
 
@@ -733,7 +735,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)</em>    
+  <em>8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -744,7 +746,7 @@ nav: true
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/08925084.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
-  <a href="https://github.com/Mvrjustid/BodyAttentionNetwork" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a> 
+  <a href="https://github.com/Mvrjustid/BodyAttentionNetwork" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
   <p>For people with chronic pain, the assessment of protective behavior during physical functioning is essential to understand their subjective pain-related experiences (e.g., fear and anxiety toward pain and injury) and how they deal with such experiences (avoidance or reliance on specific body joints), with the ultimate goal of guiding intervention. Advances in deep learning (DL) can enable the development of such intervention. Using the EmoPain MoCap dataset, we investigate how attention-based DL architectures can be used to improve the detection of protective behavior by capturing the most informative temporal and body configurational cues characterizing specific movements and the strategies used to perform them. We propose an end-to-end deep learning architecture named BodyAttentionNet (BANet). BANet is designed to learn temporal and bodily parts that are more informative to the detection of protective behavior. The approach addresses the variety of ways people execute a movement (including healthy people) independently of the type of movement analyzed. Through extensive comparison experiments with other state-of-the-art machine learning techniques used with motion capture data, we show statistically significant improvements achieved by using these attention mechanisms. In addition, the BANet architecture requires a much lower number of parameters than the state of the art for comparable if not higher performances.
@@ -787,7 +789,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>8th International Conference on Affective Computing and Intelligent Interaction (ACII)</em>    
+  <em>8th International Conference on Affective Computing and Intelligent Interaction (ACII)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -798,7 +800,7 @@ nav: true
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   <a href="/assets/pdf/08925525.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
-  <a href="https://github.com/Mvrjustid/ACII19-Apex-Time-Network" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>   
+  <a href="https://github.com/Mvrjustid/ACII19-Apex-Time-Network" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
   <p>The automatic recognition of micro-expression has been boosted ever since the successful introduction of deep learning approaches. As researchers working on such topics are moving to learn from the nature of micro-expression, the practice of using deep learning techniques has evolved from processing the entire video clip of micro-expression to the recognition on apex frame. Using the apex frame is able to get rid of redundant video frames, but the relevant temporal evidence of micro-expression would be thereby left out. This paper proposes a novel Apex-Time Network (ATNet)to recognize micro-expression based on spatial information from the apex frame as well as on temporal information from the respective-adjacent frames. Through extensive experiments on three benchmarks, we demonstrate the improvement achieved by learning such temporal information. Specially, the model with such temporal information is more robust in cross-dataset validations.
@@ -843,7 +845,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>13th IEEE International Conference on Automatic Face & Gesture Recognition (FG)</em>    
+  <em>13th IEEE International Conference on Automatic Face & Gesture Recognition (FG)</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->
@@ -945,7 +947,7 @@ nav: true
 
   <a>Chen Tong</a>,
 
-  and <a>Liu Guangyuan</a>       
+  and <a>Liu Guangyuan</a>
   </div>
 
 <!-- ----      Journal      ---- -->
