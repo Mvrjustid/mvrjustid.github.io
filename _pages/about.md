@@ -17,11 +17,11 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-**Interactive smart healthcare and embodied intelligence**
+**Interactive smart healthcare and socially embodied intelligence**
 
 Chongyang Wang is a postdoc researcher at [Pervasive HCI Laboratory](https://pi.cs.tsinghua.edu.cn/){:target="\_blank"} of Tsinghua University, where he is working with [Dr. Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/) on active sensing and interaction. He obtained his Ph.D. degree at [UCL interaction centre](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"} under the supervision of [Prof. Nadia Berthouze](https://uclic.ucl.ac.uk/people/nadia-berthouze){:target="\_blank"} (UCL) and [Prof. Nic Lane](http://niclane.org/){:target="\_blank"} (University of Cambridge). [Prof. Amanda Williams](https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams){:target="\_blank"} (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
 
-His research focus on ubiquitous computing, technical HCI, and smart healthcare. He has been working on the intelligent rehabilitation for people with chronic pain since 2017. He is particularly interested in HCI driven by action semantics.
+His research focus on technical HCI, ubiquitous computing, and smart healthcare. He has been working on the intelligent rehabilitation for people with chronic pain since 2017. He is particularly interested in HCI driven by human action semantics and social robots.
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
