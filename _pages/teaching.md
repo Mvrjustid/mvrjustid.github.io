@@ -37,6 +37,9 @@ Ubicomp, CHI, ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
 ---
 
 #### Invited speaker
+<!-- ''\\
+Panel Discussion, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), 10 2024. -->
+
 ‘The Interactive Development of AI and the Research on Chronic Pain’ \\
 Seminar, UM-SJTU Joint Institute, 01 2022.
 
@@ -62,12 +65,14 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
-Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.
+Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.\\
 
-Lingxiao Zhong, Siqi Zheng, Chi Zhang, Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2023-2024, in progress.\\
-Two papers published in CHI'24 and IMWUT/UbiComp'24.
+Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2024, in progress.\\
 
-Cen Guanting, M.Sc project, UCL, 2021. Awarded with Distinction.\\
+Lingxiao Zhong (w/ University of Michigan), Siqi Zheng (w/ GIX, THU-UW), Chi Zhang, Student Research Training (SRT) Project, THU, 2023.\\
+Two papers published in '[CHI'24](https://wangchongyang.ai/assets/pdf/PepperPose_CHI.pdf){:target="\_blank"}' and '[IMWUT/UbiComp'24](https://wangchongyang.ai/assets/pdf/UbiPhysio_IMWUT.pdf){:target="\_blank"}'.
+
+Cen Guanting (w/ Huawei), M.Sc project, UCL, 2021. Awarded with Distinction.\\
 '[Exploring Multimodal Fusion for Continuous Protective Behavior Detection](https://wangchongyang.ai/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf){:target="\_blank"}', a outcome of the project is accepted to ACII'22.
 
 Yi Kexin, B.Eng project, HUST, 2021.
