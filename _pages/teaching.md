@@ -27,7 +27,7 @@ ACM Transactions on Internet of Things,\\
 IEEE Transactions on Affective Computing,\\
 IEEE Transactions on MultiMedia,\\
 IEEE Transactions on Human-Machine Systems,\\
-Journal of Signal Processing Systems,
+Journal of Signal Processing Systems
 
 \\
 **Conference:**
@@ -65,9 +65,9 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
-Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.\\
+Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.
 
-Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2024, in progress.\\
+Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2024, in progress.
 
 Lingxiao Zhong (w/ University of Michigan), Siqi Zheng (w/ GIX, THU-UW), Chi Zhang, Student Research Training (SRT) Project, THU, 2023.\\
 Two papers published in '[CHI'24](https://wangchongyang.ai/assets/pdf/PepperPose_CHI.pdf){:target="\_blank"}' and '[IMWUT/UbiComp'24](https://wangchongyang.ai/assets/pdf/UbiPhysio_IMWUT.pdf){:target="\_blank"}'.
