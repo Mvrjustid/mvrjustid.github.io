@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: key publications
+title: Publications
 description:
 years: []
 nav: true
