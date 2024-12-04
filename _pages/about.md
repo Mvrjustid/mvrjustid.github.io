@@ -29,7 +29,7 @@ His research focus on technical HCI, ubiquitous computing, and smart healthcare.
 <img src="/assets/img/square-github.svg" width="15" height="15">  [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
 <img src="/assets/img/file-lines.svg" width="15" height="15">  [中文简历](/assets/pdf/resume-wcy-chinese.pdf){:target="\_blank"}\\
 <img src="/assets/img/twitter-svgrepo-com.svg" width="15" height="15">  [Twitter/X](https://x.com/mvrjustid){:target="\_blank"}\\
-<img src="/assets/img/envelope.svg" width="15" height="15">  [Email](mailto:wangchongyang@tsinghua.edu.cn){:target="\_blank"}
+<img src="/assets/img/envelope.svg" width="15" height="15">  [Email](mailto:mvrjustid@gmail.com){:target="\_blank"}
 
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
 
