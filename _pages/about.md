@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-description: Postdoc Researcher, Shuimu Scholar, Tsinghua University    <img src="/assets/img/tsinghua.svg" width="15" height="15">  ←  <img src="/assets/img/UCL2.png" width="12" height="15">  ←  <img src="/assets/img/SWU.png" width="15" height="15">
+description: Assistant Professor (Research), West China Hospital, Sichuan University    <img src="/assets/img/WCHSCU.png" width="35" height="15">  ←  <img src="/assets/img/tsinghua.svg" width="15" height="15">  ←  <img src="/assets/img/UCL2.png" width="12" height="15">  ←  <img src="/assets/img/SWU.png" width="15" height="15">
 profile:
   align: right
   image: chongyang-natural.jpg 
   address: >
-    <p> Room 3-526 </p>
-    <p> FIT building </p>
-    <p> Tsinghua University</p>
-
+    <p> Room 40016, 4th Floor </p>
+    <p> The AI Lab, Rehabilitation Medicine Institute </p>
+    <p> West China Hospital (Wen Jiang) </p>
+    
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 **Interactive smart healthcare and socially embodied intelligence**
 
-Chongyang Wang is a postdoc researcher at [Pervasive HCI Laboratory](https://pi.cs.tsinghua.edu.cn/){:target="\_blank"} of Tsinghua University, where he is working with [Dr. Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/) on active sensing and interaction. He obtained his Ph.D. degree at [UCL interaction centre](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"} under the supervision of [Prof. Nadia Berthouze](https://uclic.ucl.ac.uk/people/nadia-berthouze){:target="\_blank"} (UCL) and [Prof. Nic Lane](http://niclane.org/){:target="\_blank"} (University of Cambridge). [Prof. Amanda Williams](https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams){:target="\_blank"} (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
+Chongyang Wang is an assistant professor (research) at [Rehabilitation Medicine Institute of West China Hospital](http://www.hxkf.cn/portal.php){:target="\_blank"}, [Sichuan University](https://www.scu.edu.cn/){:target="\_blank"}. He was a postdoc researcher at [Pervasive HCI Laboratory](https://pi.cs.tsinghua.edu.cn/){:target="\_blank"} of Tsinghua University, where he worked with [Dr. Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/) on active sensing and interaction. He obtained his Ph.D. degree at [UCL interaction centre](https://uclic.ucl.ac.uk/people/chongyang-wang){:target="\_blank"} under the supervision of [Prof. Nadia Berthouze](https://uclic.ucl.ac.uk/people/nadia-berthouze){:target="\_blank"} (UCL) and [Prof. Nic Lane](http://niclane.org/){:target="\_blank"} (University of Cambridge). [Prof. Amanda Williams](https://www.ucl.ac.uk/pals/people/amanda-c-de-c-williams){:target="\_blank"} (UCL) was acting as the tertiary supervisor who helped enrich the theoretical basis from a clinical psychology perspective. Before joining UCL, he earned the B.Eng. degree at Southwest University in China, under the supervision of Prof. Tong Chen.
 
 His research focus on technical HCI, ubiquitous computing, and smart healthcare. He has been working on the intelligent rehabilitation for people with chronic pain since 2017. He is particularly interested in HCI driven by human action semantics and social robots.
 
