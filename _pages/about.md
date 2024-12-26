@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
 ---
-<img src="/assets/img/WCHSCU.png" width="35" height="15">  ←  <img src="/assets/img/tsinghua.svg" width="15" height="15">  ←  <img src="/assets/img/UCL2.png" width="12" height="15">  ←  <img src="/assets/img/SWU.png" width="15" height="15">
+<img src="/assets/img/WCHSCU.png" width="70" height="30">  ←  <img src="/assets/img/tsinghua.svg" width="30" height="30">  ←  <img src="/assets/img/UCL2.png" width="24" height="30">  ←  <img src="/assets/img/SWU.png" width="30" height="30">
 
 **Interactive smart healthcare and socially embodied intelligence**
 
