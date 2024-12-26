@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Assistant Professor (Research), West China Hospital, Sichuan University        <img src="/assets/img/WCHSCU.png" width="35" height="15">  ←  <img src="/assets/img/tsinghua.svg" width="15" height="15">  ←  <img src="/assets/img/UCL2.png" width="12" height="15">  ←  <img src="/assets/img/SWU.png" width="15" height="15">
+description: Assistant Professor (Research), West China Hospital, Sichuan University        <img src="/assets/img/WCHSCU.png" width="38" height="15">  ←  <img src="/assets/img/tsinghua.svg" width="15" height="15">  ←  <img src="/assets/img/UCL2.png" width="12" height="15">  ←  <img src="/assets/img/SWU.png" width="15" height="15">
 profile:
   align: right
   image: chongyang-natural.jpg 
