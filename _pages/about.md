@@ -2,13 +2,12 @@
 layout: about
 title: About
 permalink: /
-description: Assistant Professor (Research), West China Hospital, Sichuan University        <img src="/assets/img/WCHSCU.png" width="38" height="15">  ←  <img src="/assets/img/tsinghua.svg" width="15" height="15">  ←  <img src="/assets/img/UCL2.png" width="12" height="15">  ←  <img src="/assets/img/SWU.png" width="15" height="15">
+description: Assistant Professor (Research), West China Hospital, Sichuan University
 profile:
   align: right
   image: chongyang-natural.jpg 
   address: >
     <p> Room 04016, 4th Floor </p>
-    <p> The AI Lab </p>
     <p> West China Hospital (Wen Jiang) </p>
     
 news: true  # includes a list of news items
@@ -16,6 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
 ---
+<img src="/assets/img/WCHSCU.png" width="35" height="15">  ←  <img src="/assets/img/tsinghua.svg" width="15" height="15">  ←  <img src="/assets/img/UCL2.png" width="12" height="15">  ←  <img src="/assets/img/SWU.png" width="15" height="15">
 
 **Interactive smart healthcare and socially embodied intelligence**
 
