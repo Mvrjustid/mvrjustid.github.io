@@ -29,7 +29,6 @@ IEEE Transactions on MultiMedia,\\
 IEEE Transactions on Human-Machine Systems,\\
 Journal of Signal Processing Systems
 
-\\
 **Conference:**
 \\
 Ubicomp, CHI, ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
@@ -37,8 +36,9 @@ Ubicomp, CHI, ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
 ---
 
 #### Invited speaker
-<!-- ''\\
-Panel Discussion, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), 10 2024. -->
+
+‘The Professional Social Role of Robots in Medicine: A Discussion from the Perspective of Power’ \\
+Panel Discussion, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), 10 2024.
 
 ‘The Interactive Development of AI and the Research on Chronic Pain’ \\
 Seminar, UM-SJTU Joint Institute, 01 2022.
