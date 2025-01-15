@@ -460,7 +460,7 @@ nav: true
   <abbr class="badge">IMWUT/Ubicomp-21</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-  <a href="/assets/pdf/Leveraging_Activity_Recognition_to_Enable_Protective_Behavior_Detection_in_Continuous_Data_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button"target="_blank">PDF</a>  
+  <a href="/assets/pdf/Leveraging_Activity_Recognition_to_Enable_Protective_Behavior_Detection_in_Continuous_Data_IMWUT.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>  
   <a href="https://github.com/Mvrjustid/IMWUT-Hierarchical-HAR-PBD" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>
   </div>
   <div class="abstract hidden">
