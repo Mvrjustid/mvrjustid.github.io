@@ -30,6 +30,7 @@ His research focus on technical HCI, ubiquitous computing, and smart healthcare.
 <img src="/assets/img/square-github.svg" width="15" height="15">  [Github](https://github.com/Mvrjustid){:target="\_blank"}\\
 <img src="/assets/img/file-lines.svg" width="15" height="15">  [中文简历](/assets/pdf/resume-wcy-chinese.pdf){:target="\_blank"}\\
 <img src="/assets/img/twitter-svgrepo-com.svg" width="15" height="15">  [Twitter/X](https://x.com/mvrjustid){:target="\_blank"}\\
+<img src="/assets/img/xiaohongshu.svg" width="15" height="15">  [小红书/RedNote](https://www.xiaohongshu.com/user/profile/664d55e2000000000303038e){:target="\_blank"}\\
 <img src="/assets/img/envelope.svg" width="15" height="15">  [Email](mailto:mvrjustid@gmail.com){:target="\_blank"}
 
 👋🏼 我正在寻找具备优秀研究潜力和动力的科研实习生（Research Assistant），本科生、研究生均可，线下最好，线上也行！欢迎对人机交互+智能医学感兴趣，且有相关科研和开发背景的同学邮件联系我。本人另预计将在华西招收医工结合方向的研究生，敬请关注。
