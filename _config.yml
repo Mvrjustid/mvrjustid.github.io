@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Chongyang
 middle_name: 
 last_name: Wang
-email: chongyang.wang.17@ucl.ac.uk
+email: mvrjustid@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Space for sharing the latest of Chongyang Wang.
 footer_text: >
@@ -91,7 +91,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 20
+news_limit: 100
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
