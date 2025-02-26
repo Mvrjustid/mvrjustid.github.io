@@ -15,11 +15,8 @@ group :jekyll_plugins do
   gem "jekyll-twitter-plugin"
   gem "jemoji"
   gem "unicode_utils"
-  gem "webrick"
+  gem "webrick", "~> 1.7" if RUBY_VERSION >= "3.0.0"
 
   # 强制指定 sass-embedded 的兼容版本
   gem "sass-embedded", "~> 1.64.2"
 end
-
-# 添加 Ruby 3.1+ 对 webrick 的显式依赖（避免兼容性错误）
-gem "webrick", "~> 1.7" if RUBY_VERSION >= "3.0.0"
