@@ -15,12 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.1.2'
-        bundler-cache: false
+        bundler-cache: true
     - name: Install deps
       run: |
         npm install -g mermaid.cli
