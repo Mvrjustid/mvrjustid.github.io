@@ -7,7 +7,7 @@ profile:
   align: right
   image: chongyang-natural.jpg 
   address: >
-    <p> Room 04016, 4th Floor </p>
+    <p> The AI Lab, 4th Floor </p>
     <p> West China Hospital (Wen Jiang) </p>
     
 news: true  # includes a list of news items

@@ -31,7 +31,7 @@ Journal of Signal Processing Systems
 
 **Conference:**
 \\
-Ubicomp, CHI, ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
+Ubicomp, CHI (LBW AC for 2025), ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
 
 ---
 
