@@ -22,6 +22,10 @@ Chongyang Wang is a research assistant professor at [Rehabilitation Medicine Ins
 
 His research focus on technical HCI, ubiquitous computing, and smart healthcare. He has been working on the intelligent rehabilitation for people with chronic pain since 2017. He is particularly interested in HCI driven by human action semantics and social robots.
 
+👋🏼 我正在寻找具备优秀科研潜质的实习生（Research Assistant）。目标本科、研究生，有Python编程和学习能力，可线下/线上开展工作。欢迎对人机交互和智能医学感兴趣的同学[邮件](mailto:mvrjustid@gmail.com){:target="\_blank"}联系我。目标顶会顶刊，做真正造福人类的科研！
+
+<!-- 本人预计将在[四川大学华西医院](https://www.wchscu.cn/bnhx.html#page1){:target="\_blank"}招收医工结合方向的硕士研究生，敬请关注。 -->
+
 <img src="/assets/img/WCHSCU.png" width="70" height="30">  ←  <img src="/assets/img/tsinghua.svg" width="30" height="30">  ←  <img src="/assets/img/UCL2.png" width="24" height="30">  ←  <img src="/assets/img/SWU.png" width="30" height="30">
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
@@ -32,8 +36,6 @@ His research focus on technical HCI, ubiquitous computing, and smart healthcare.
 <img src="/assets/img/twitter-svgrepo-com.svg" width="15" height="15">  [Twitter/X](https://x.com/mvrjustid){:target="\_blank"}\\
 <img src="/assets/img/xiaohongshu.svg" width="15" height="15">  [小红书/RedNote](https://www.xiaohongshu.com/user/profile/664d55e2000000000303038e){:target="\_blank"}\\
 <img src="/assets/img/envelope.svg" width="15" height="15">  [Email](mailto:mvrjustid@gmail.com){:target="\_blank"}
-
-👋🏼 我正在寻找具备优秀科研潜质的实习生（Research Assistant）。目标本科、研究生，有Python编程和学习能力，可线下/线上开展工作。欢迎对人机交互和智能医学感兴趣的同学[邮件](mailto:mvrjustid@gmail.com){:target="\_blank"}联系我。哥带你发顶会顶刊，做造福人类的科研！本人预计将在[四川大学华西医院](https://www.wchscu.cn/bnhx.html#page1){:target="\_blank"}招收医工结合方向的硕士研究生，敬请关注。
 
 <!-- [![Citation](https://img.shields.io/badge/Google%20scholar%20citation-%3E250-4682B4?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?user=H7VBxLgAAAAJ&hl=en) -->
 
