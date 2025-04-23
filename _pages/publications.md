@@ -19,6 +19,106 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+<h2 class="year">2025</h2>
+<ol class="bibliography">
+
+<!-----------------------------------------------------     2025 Paper 1 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/CHI_2.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="Wang2024PepperPose" class="col-sm-8">
+  <div class="title">Enhancing Smartphone Eye Tracking with Cursor-Based Interactive Implicit Calibration
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <a>Liu, Chang</a>,
+  <a>Wang, Xiangyang</a>,
+  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Yu, Chun</a>,
+  <a>Shi, Yingtian</a>,
+  <em>Wang, Chongyang</em>,
+  <a>Liu, Ziqi</a>,
+  <a href="https://cma.hkust-gz.edu.cn/people/chen-liang/" target="_blank">Liang, Chen</a>,
+  and <a href="https://pi.cs.tsinghua.edu.cn/people/#faculty" target="_blank">Yuanchun Shi</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)</em>
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">CHI-25</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/EnhanceGaze_CHI25.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+  <!-- <a href="https://github.com/Mvrjustid/pepperpose" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>   -->
+  </div>
+  <div class="abstract hidden">
+  <p>The limited accuracy of eye-tracking on smartphones restricts its use. Existing RGB-camera-based eye-tracking relies on extensive datasets, which could be enhanced by continuous fine-tuning using calibration data implicitly collected from the interaction. In this context, we propose COMETIC (Cursor Operation Mediated Eye-Tracking Implicit Calibration), which introduces a cursor-based interaction and utilizes the inherent correlation between cursor and eye movement. By filtering valid cursor coordinates as proxies for the ground truth of gaze and fine-tuning the eye-tracking model with corresponding images, COMETIC enhances accuracy during the interaction. Both filtering and fine-tuning use pre-trained models and could be facilitated using personalized, dynamically updated data. Results show COMETIC achieves an average eye-tracking error of 278.3 px (1.60 cm, 2.29◦), representing a 27.2% improvement compared to that without fine-tuning. We found that filtering cursor points whose actual distance to gaze is 150.0 px (0.86 cm) yields the best eye-tracking results.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2025 Paper 1 end     ----------------------------------------------------->
+
+<!-----------------------------------------------------     2025 Paper 2 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/ieeebme_1.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="liu2025DepressionSleep" class="col-sm-8">
+  <div class="title">Identification of Non-Restorative Sleep Associated with Depression Using Ambulatory Electrocardiogram and Triaxial Acceleration
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  
+  <a>Liu, Li</a>,
+  <em>Wang, Chongyang</em>,
+  <a>Liu, Guangyuan</a>,
+  and <a>Wen, Wanhui</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>IEEE Transactions on Biomedical Engineering</em>
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">IEEE T-BME</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/DepressionSleep_IEEETBME.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+  <!-- <a href="https://github.com/Mvrjustid/ubiphysio" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a> -->
+  </div>
+  <div class="abstract hidden">
+  <p>Objective: Non-restorative sleep is prevalent among individuals with depression and is strongly associated with the severity of the condition. Therefore, identifying non-restorative sleep can aid in the early screening of depression. Investigating non-restorative sleep in depression necessitates long-term monitoring under naturalistic conditions. Methods: In this study, we recruited 149 participants and collected electrocardiogram and triaxial acceleration from them, resulting in a total of 761 nights of data. The period from midnight to 6:30 AM was segmented into 78 five-minute intervals, from which 40 physiological features were extracted for each interval. To deal with variations in sleep patterns across participants and dates, we reordered the sleep data based on levels of parasympathetic nervous system (PNS) activation to explore the underlying neural mechanisms of non-restorative sleep in individuals with depressive symptoms. Results: We developed a model that integrated convolutional neural networks with an attention mechanism to identify nonrestorative sleep in individuals with depressive symptoms. The model demonstrated impressive performance on an independent test set, achieving an accuracy of 81.25% and an F1 score of 77.85%. Additionally, Bayes' theorem was used to compute the posterior probability indicating nonrestorative sleep in this population, assessing abnormal PNS activation. Conclusion: Finally, we designed a system capable of automatically evaluating nighttime sleep status and quantifying changes in non-restorative sleep associated with depression. Significance: This system offers a novel tool and method for the early identification of individuals at risk of depression.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2025 Paper 2 end     ----------------------------------------------------->
+
 <h2 class="year">2024</h2>
 <ol class="bibliography">
 
@@ -41,7 +141,7 @@ nav: true
   <a>Zheng, Siqi</a>,
   <a>Zhong, Lingxiao</a>,
   <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Yu, Chun</a>,
-  <a>Liang, Chen</a>,
+  <a href="https://cma.hkust-gz.edu.cn/people/chen-liang/" target="_blank">Liang, Chen</a>,
   <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/" target="_blank">Wang, Yuntao</a>,
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
   <a>Lam, Tin Lun</a>,
@@ -94,7 +194,7 @@ nav: true
   <a>Zhu, Siyi</a>,
   <a>Zhang, Chi</a>,
   <a>Zheng, Siqi</a>,
-  <a>Liang, Chen</a>,
+  <a href="https://cma.hkust-gz.edu.cn/people/chen-liang/" target="_blank">Liang, Chen</a>,
   <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/" target="_blank">Wang, Yuntao</a>,
   <a>He, Chengqi</a>,
   <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Yu, Chun</a>,

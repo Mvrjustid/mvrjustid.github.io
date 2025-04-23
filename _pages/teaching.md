@@ -17,6 +17,7 @@ nav: true
 **Journal:**
 \\
 Nature Medicine,\\
+npj Digital Medicine,\\
 Computers in Human Behavior,\\
 Artificial Intelligence in Medicine,\\
 Pattern Recognition,\\
@@ -65,7 +66,7 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
-Manqiu Liao (BUPT), Tianyi Xia (HIT), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.
+Manqiu Liao (BUPT), Tianyi Xia (THU), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.
 
 Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2024, in progress.
 
