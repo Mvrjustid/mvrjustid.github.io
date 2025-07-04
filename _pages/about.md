@@ -5,7 +5,7 @@ permalink: /
 description: Research Assistant Professor, West China Hospital, Sichuan University
 profile:
   align: right
-  image: chongyang-natural.jpg 
+  image: chongyang-xiuxian.png 
   address: >
     <p> The AI Lab, 4th Floor </p>
     <p> West China Hospital (Wen Jiang) </p>
