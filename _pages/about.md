@@ -9,6 +9,7 @@ profile:
   address: >
     <p> The AI Lab, 4th Floor </p>
     <p> West China Hospital (Wen Jiang) </p>
+    <p> Sichuan University, Chengdu </p>
     
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
