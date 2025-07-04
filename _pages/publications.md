@@ -25,6 +25,60 @@ nav: true
 <!-----------------------------------------------------     2025 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/UIST_1.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="Wang2024PepperPose" class="col-sm-8">
+  <div class="title">Understanding Users' Perceptions and Expectations toward a Social Balloon Robot via an Exploratory Study
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  <em>Wang, Chongyang</em>,
+  <a>Xia, Tianyi</a>,
+  <a>Wang, Yifan</a>,
+  <a>Yu, Gang</a>,
+  <a>Zhao, Zixuan</a>,
+  <a>Zheng, Siqi</a>,
+  <a>Liao, Manqiu</a>,
+  <a href="https://cma.hkust-gz.edu.cn/people/chen-liang/" target="_blank">Liang, Chen</a>,
+  <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao, Yuan</a>,
+  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Yu, Chun</a>,
+  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/" target="_blank">Wang, Yuntao</a>,
+  and <a href="https://pi.cs.tsinghua.edu.cn/people/#faculty" target="_blank">Yuanchun Shi</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology</em>
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">UIST-25</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <!-- <a href="/assets/pdf/EnhanceGaze_CHI25.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a> -->
+  <!-- <a href="https://github.com/Mvrjustid/pepperpose" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>   -->
+  </div>
+  <div class="abstract hidden">
+  <p>We are witnessing a new epoch in embodied social agents. Most of the work has focused on ground or desktop robots that enjoy technical maturity and rich social channels but are often limited by terrain. Drones, which enable spatial mobility, currently face issues with safety and proximity. This paper explores a social balloon robot as a viable alternative that combines these advantages and alleviates limitations. To this end, we developed a hardware prototype named BalloonBot that integrates various devices for social functioning and a helium balloon. We conducted an exploratory lab study on users’ perceptions and expectations about its demonstrated interactions and functions. Our results show promise in using such a robot as another form of socially embodied agent. We highlight its unique mobile and approachable characteristics that harvest novel user experiences and outline factors that should be considered before its broad applications.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2025 Paper 1 end     ----------------------------------------------------->
+
+<!-----------------------------------------------------     2025 Paper 2 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/CHI_2.png" style="width:180pt">
   </a>
 
@@ -70,9 +124,9 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2025 Paper 1 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2025 Paper 2 end     ----------------------------------------------------->
 
-<!-----------------------------------------------------     2025 Paper 2 start    ----------------------------------------------------->
+<!-----------------------------------------------------     2025 Paper 3 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
   <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/ieeebme_1.png" style="width:180pt">
@@ -117,7 +171,7 @@ nav: true
 </div>
 </div>
 </li>
-<!-----------------------------------------------------      2025 Paper 2 end     ----------------------------------------------------->
+<!-----------------------------------------------------      2025 Paper 3 end     ----------------------------------------------------->
 
 <h2 class="year">2024</h2>
 <ol class="bibliography">
