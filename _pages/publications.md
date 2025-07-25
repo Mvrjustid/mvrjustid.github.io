@@ -64,7 +64,7 @@ nav: true
   <abbr class="badge">UIST-25</abbr>
   </a>
   <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-  <a href="/assets/pdf/BalloonBot_UIST25.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+  <a href="/assets/pdf/BalloonBot-UIST25.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
   <!-- <a href="https://github.com/Mvrjustid/pepperpose" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>   -->
   </div>
   <div class="abstract hidden">
