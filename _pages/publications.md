@@ -236,7 +236,7 @@ nav: true
 <!-- ----      Title      ---- -->
 
 <div id="Wang2024Ubiphysio" class="col-sm-8">
-  <div class="title">UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language
+  <div class="title">🏆UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language
   </div>
 
 <!-- ----      Author     ---- -->
@@ -258,7 +258,7 @@ nav: true
 <!-- ----      Journal      ---- -->
 
 <div class="periodical"> 
-  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>
+  <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Distinguished Paper Award at Ubicomp-25!</em>
   </div>
 
 <!-- ---- Badge/Abstract/PDF ---- -->

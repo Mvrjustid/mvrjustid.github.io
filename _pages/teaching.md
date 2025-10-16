@@ -32,11 +32,16 @@ Journal of Signal Processing Systems
 
 **Conference:**
 \\
-Ubicomp, CHI (LBW AC for 2025), ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
+Ubicomp, CHI (AC for 2026, LBW AC for 2025), ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
 
 ---
 
 #### Invited speaker
+‘Bridging Medicine and Engineering: Reflections on Innovative Wearable Technologies in Clinical Practice’ \\
+Speaker, The 1st HHMC and 21st HHME Conference, 08 2025.
+
+‘Research on the Intersection of Artificial Intelligence and Sports Rehabilitation’ \\
+Speaker, The 13th West China Rehabilitation International Academic Forum, 05 2025.
 
 ‘The Professional Social Role of Robots in Medicine: A Discussion from the Perspective of Power’ \\
 Panel Discussion, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), 10 2024.
@@ -66,7 +71,10 @@ Seminar, Department of Computer Science, University of Oxford, 12 2018.
 ---
 
 #### Supervision
-Manqiu Liao (BUPT), Tianyi Xia (THU), Yifan Wang (CityU), Lexi Chen (PKU), ACSP 2024 program, in progress.
+Manqiu Liao (HKUST-GZ), Ruiqian Wang (UPenn.), Yufei Ren (SCU), Yao Yu (CUHK-SZ), Hao Wu (ZJU), Chenyang Li (THU), Shiming Wang (NUS), Yuanzhao Dai (BNU), Zirui Yan (SJTU), Huina Piao (NUS), SCU-THU Joint Research Project, 2025, in progress.
+
+Manqiu Liao (BUPT), Tianyi Xia (THU), Yifan Wang (CityU), Lexi Chen (PKU), ACSP program, 2024.\\
+One paper published in '[UIST'25](https://wangchongyang.ai/assets/pdf/BalloonBot-UIST25.pdf){:target="\_blank"}'.
 
 Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2024, in progress.
 
