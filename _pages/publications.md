@@ -143,9 +143,9 @@ nav: true
 <div class="author">
   
   <a>Liu, Li</a>,
-  <em>Wang, Chongyang</em>,
+  <em>Wang, Chongyang</em><sup title="mvrjustid@gmail.com">✉</sup>,
   <a>Liu, Guangyuan</a>,
-  and <a>Wen, Wanhui</a>
+  and <a>Wen, Wanhui</a><sup title="cwenwanh@swu.edu.cn">✉</sup>
 </div>
 
 <!-- ----      Journal      ---- -->
