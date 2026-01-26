@@ -37,29 +37,32 @@ Ubicomp, CHI (AC for 2026, LBW AC for 2025), ICRA, ACII, ICMI, SmartCOMP, Mobico
 ---
 
 #### Invited speaker
+‘Action-Aware Intelligent Health Interaction’ \\
+Speaker, The 3rd CSIG Conference on Emotional Intelligence, Shenzhen, 12 2025.
+
 ‘Bridging Medicine and Engineering: Reflections on Innovative Wearable Technologies in Clinical Practice’ \\
-Speaker, The 1st HHMC and 21st HHME Conference, 08 2025.
+Speaker, The 1st HHMC and 21st HHME Conference, Dalian, 08 2025.
 
 ‘Research on the Intersection of Artificial Intelligence and Sports Rehabilitation’ \\
-Speaker, The 13th West China Rehabilitation International Academic Forum, 05 2025.
+Speaker, The 13th West China Rehabilitation International Academic Forum, Chengdu, 05 2025.
 
 ‘The Professional Social Role of Robots in Medicine: A Discussion from the Perspective of Power’ \\
-Panel Discussion, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), 10 2024.
+Panel Discussion, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen, 10 2024.
 
 ‘The Interactive Development of AI and the Research on Chronic Pain’ \\
-Seminar, UM-SJTU Joint Institute, 01 2022.
+Seminar, UM-SJTU Joint Institute, Shanghai, 01 2022.
 
 ‘Ubiquitous Human Behavior Sensing for Intelligent Chronic Pain Rehabilitation’ \\
-‘Nursing + X’ Forum, School of Nursing, Shanghai Jiao Tong University, 10 2021.
+‘Nursing + X’ Forum, School of Nursing, Shanghai Jiao Tong University, Shanghai, 10 2021.
 
 ‘The Role of AI in Chronic-pain Management’ \\
-Showcase, Hospital Authority (HA) of Hongkong, AIRS, 04 2021.
+Showcase, Hospital Authority (HA) of Hongkong, AIRS, Shenzhen, 04 2021.
 
 ‘Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data’ \\
-Seminar, AI Society Journal Club, UCL, 02 2021.
+Seminar, AI Society Journal Club, UCL, London, 02 2021.
 
 ‘From Facial Micro-Expression Recognition to Protective Movement Behavior Detection’ \\
-Seminar, Department of Computer Science, University of Oxford, 12 2018.
+Seminar, Department of Computer Science, University of Oxford, Oxford, 12 2018.
 
 ---
 
