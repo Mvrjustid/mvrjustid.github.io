@@ -19,6 +19,63 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+
+
+<h2 class="year">2026</h2>
+<ol class="bibliography">
+
+<!-----------------------------------------------------     2026 Paper 1 start    ----------------------------------------------------->
+<li><div class="row">
+  <!-- ----Picture with link---- -->
+  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/CHI_3.png" style="width:180pt">
+  </a>
+
+<!-- ----      Title      ---- -->
+
+<div id="Wang2026LLMHRI" class="col-sm-8">
+  <div class="title">How Do We Research Human-Robot Interaction in the Age of Large Language Models? A Systematic Review
+  </div>
+
+<!-- ----      Author     ---- -->
+
+<div class="author">
+  
+  <a>Wang, Yufeng</a>,
+  <a>Xu, Yuan</a>,
+  <a>Nikolova, Anastasia</a>,
+  <a>Wang, Yuxuan</a>,
+  <a>Wang, Jianyu</a>,
+  <em>Wang, Chongyang</em>,
+  and <a>Tong, Xin</a>
+</div>
+
+<!-- ----      Journal      ---- -->
+
+<div class="periodical"> 
+  <em>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)</em>
+  </div>
+
+<!-- ---- Badge/Abstract/PDF ---- -->
+
+<div class="links">
+  <a class="col-sm-2 abbr">
+  <abbr class="badge">CHI-26</abbr>
+  </a>
+  <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+  <a href="/assets/pdf/LLMHRI_CHI26.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+  <!-- <a href="https://github.com/Mvrjustid/pepperpose" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Github</a>   -->
+  </div>
+  <div class="abstract hidden">
+  <p>Advances in large language models (LLMs) are profoundly reshaping the field of human-robot interaction (HRI). While prior work has highlighted the technical potential of LLMs, few studies have systematically examined their human-centered impact (e.g., human-oriented understanding, user modeling, and levels of autonomy), making it difficult to consolidate emerging challenges in LLM-driven HRI systems. Therefore, we conducted a systematic literature search following the PRISMA guideline, identifying 86 articles that met our inclusion criteria. Our findings reveal that: (1) LLMs are transforming the fundamentals of HRI by reshaping how robots sense context, generate socially grounded interactions, and maintain continuous alignment with human needs in embodied settings; and (2) current research is largely exploratory, with different studies focusing on different facets of LLM-driven HRI, resulting in wide-ranging choices of experimental setups, study methods, and evaluation metrics. Finally, we identify key design considerations and challenges, offering a coherent overview and guidelines for future research at the intersection of LLMs and HRI.</p>
+  </div>
+
+</div>
+</div>
+</li>
+<!-----------------------------------------------------      2026 Paper 1 end     ----------------------------------------------------->
+
+
+
 <h2 class="year">2025</h2>
 <ol class="bibliography">
 
@@ -30,7 +87,7 @@ nav: true
 
 <!-- ----      Title      ---- -->
 
-<div id="Wang2024PepperPose" class="col-sm-8">
+<div id="Wang2025BalloonBot" class="col-sm-8">
   <div class="title">Understanding Users' Perceptions and Expectations toward a Social Balloon Robot via an Exploratory Study
   </div>
 
@@ -84,7 +141,7 @@ nav: true
 
 <!-- ----      Title      ---- -->
 
-<div id="Wang2024PepperPose" class="col-sm-8">
+<div id="Liu2025Enhance" class="col-sm-8">
   <div class="title">Enhancing Smartphone Eye Tracking with Cursor-Based Interactive Implicit Calibration
   </div>
 
