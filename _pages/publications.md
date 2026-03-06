@@ -45,8 +45,8 @@ nav: true
   <a>Nikolova, Anastasia</a>,
   <a>Wang, Yuxuan</a>,
   <a>Wang, Jianyu</a>,
-  <em>Wang, Chongyang</em>,
-  and <a>Tong, Xin</a>
+  <em>Wang, Chongyang</em><sup>✉</sup>,
+  and <a>Tong, Xin</a><sup>✉</sup>
 </div>
 
 <!-- ----      Journal      ---- -->
@@ -502,8 +502,8 @@ nav: true
 <!-- ----      Author     ---- -->
 
 <div class="author">
-  <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
-  <em>Wang Chongyang</em>,
+  <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a><sup>*</sup>,
+  <em>Wang Chongyang</em><sup>*</sup>,
   <a>Yu Shi</a>,
   and <a>Zhou Xiangdong</a>
   </div>
@@ -598,8 +598,8 @@ nav: true
 <!-- ----      Author     ---- -->
 
 <div class="author">
-  <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a>,
-  <em>Wang Chongyang</em>,  
+  <a href="https://scholar.google.com/citations?user=hRQVbeoAAAAJ&hl=en" target="_blank">Peng Min</a><sup>*</sup>,
+  <em>Wang Chongyang</em><sup>*</sup>,  
   <a href="https://gaoyuankidult.github.io/about/" target="_blank">Gao Yuan</a>,
   <a>Yu Shi</a>,
   and <a>Zhou Xiangdong</a>       
