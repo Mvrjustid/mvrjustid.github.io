@@ -586,7 +586,7 @@ nav: true
 <!-----------------------------------------------------     2022 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/IJCAI_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/IJCAI.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
