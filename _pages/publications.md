@@ -27,7 +27,7 @@ nav: true
 <!-----------------------------------------------------     2026 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/CHI_3.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/CHI_3.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -82,7 +82,7 @@ nav: true
 <!-----------------------------------------------------     2025 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/UIST_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/UIST_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -136,7 +136,7 @@ nav: true
 <!-----------------------------------------------------     2025 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/CHI_2.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/CHI_2.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -186,7 +186,7 @@ nav: true
 <!-----------------------------------------------------     2025 Paper 3 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/ieeebme_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/ieeebme_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -236,7 +236,7 @@ nav: true
 <!-----------------------------------------------------     2024 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/CHI_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/CHI_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -287,7 +287,7 @@ nav: true
 <!-----------------------------------------------------     2024 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/IMWUT_2.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/IMWUT_2.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -343,7 +343,7 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/Neuroimage_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/Neuroimage_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -392,7 +392,7 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/TRO_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/TRO_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -441,7 +441,7 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 3 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/Learn2Agree.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/Learn2Agree.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -490,7 +490,7 @@ nav: true
 <!-----------------------------------------------------     2023 Paper 4 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/AAAI_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/AAAI_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -539,7 +539,7 @@ nav: true
 <!-----------------------------------------------------     2022 Paper 1 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/ACII_3.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/ACII_3.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -586,7 +586,7 @@ nav: true
 <!-----------------------------------------------------     2022 Paper 2 start    ----------------------------------------------------->
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/IJCAI_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/IJCAI_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
@@ -638,7 +638,7 @@ nav: true
 
 <li><div class="row">
   <!-- ----Picture with link---- -->
-  <a><img class="img-responsive z-depth-1 rounded" src="/assets/img/IMWUT_1.png" style="width:180pt">
+  <a><img class="img-responsive z-depth-1 rounded" loading="lazy" src="/assets/img/IMWUT_1.png" style="width:180pt">
   </a>
 
 <!-- ----      Title      ---- -->
