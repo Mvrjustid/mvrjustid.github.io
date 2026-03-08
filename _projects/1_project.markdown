@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Protective behavior detection
-description: The role of AI in chronic-pain management （part 1, completed within my PhD）
+description: Opening the role of AI in chronic-pain management （completed within my PhD）
 img: /assets/img/avatars_2.png
 importance: 1
 category: research
 ---
 
-The popular treatment for chronic pain (CP) is focused on physical rehabilitation organized by physiotherapists at clinic. The physio observes the movement behavior of people with CP during the rehabilitation session, and respond with oral encouragement, post-hoc feedback and interventions. Here, movement behaviors like guarding, stiffness, hesitation, the use of support, and jerky motion are referred to as **protective behavior**. Protective behavior is adopted by people with CP due to their fear of ongoing or potential pain and injury. Therefore, it is informative for physios and an **artificial system** to infer the physical and psychological states of those people. The figure shown below contains avatar examples transformed from movement data of normal people and people with CP. Could you spot the difference?
+目前针对慢性疼痛 (`chronic pain`, CP) 的主流治疗方法是依靠诊所理疗师组织的物理康复训练。在康复过程中，理疗师会观察 CP 患者的运动行为，并给予口头鼓励、事后反馈和干预。在这里，诸如防卫 (guarding)、僵硬 (stiffness)、犹豫 (hesitation)、使用支撑 (the use of support) 以及剧烈动作 (jerky motion) 等运动行为统称为 **protective behavior**（保护性行为）。由于 CP 患者对持续或潜在的疼痛和受伤感到恐惧，他们往往会采取这种保护性行为。因此，推断这些患者的生理和心理状态，对于理疗师以及构建 **artificial system**（人工智能系统）来说具有极高的信息价值。
+
+下图展示了由正常人和 CP 患者的运动数据转换而成的 avatar 示例。你能看出其中的区别吗？
+
 <br/>
 <br/>
 <div class="row justify-content-sm-center">
@@ -19,9 +22,13 @@ The popular treatment for chronic pain (CP) is focused on physical rehabilitatio
     <em>Avatar examples of movement data from healthy and CP participants performing the five activities-of-interest (AoIs).</em>
 </div>
 <br/>
-Unfortunately, the service offered in the clinic is expensive and only available to the few. On the other hand, applying movement strategies learned from the clinic to daily self-directed management is difficult. This is particularly due to the reduced self-awareness of the use of protective behavior in a daily scenario, which could worsen the condition except for bringing temporary comfort to the person. 
 
-As an important step towards building a virtual physiotherapist for people's everyday use, the aim of my PhD is to establish accurate protective behavior detection (PBD) using the EmoPain dataset we collected back in 2016. A full data sequence of a participant with CP is shown below.
+### 1. 走向日常的 Virtual Physiotherapist
+
+遗憾的是，诊所提供的服务通常十分昂贵，且只有少数人能够负担。另一方面，将诊所学到的运动策略应用到日常的自我管理中也非常困难。这主要是因为在日常场景中，人们对自身使用 protective behavior 的自我意识会降低，这除了给患者带来暂时的舒适外，反而可能使病情恶化。 
+
+作为构建供人们日常使用的虚拟理疗师 (Virtual Physiotherapist) 的重要一步，我博士阶段的研究目标是利用我们在 2016 年收集的 `EmoPain dataset`，建立准确的 **protective behavior detection (PBD)** 系统。下图展示了一名 CP 患者的完整数据序列。
+
 <br/>
 <br/>
 <div class="row justify-content-sm-center">
@@ -33,7 +40,13 @@ As an important step towards building a virtual physiotherapist for people's eve
     <em>An example of the full data sequence from a CP participant, comprising AoIs and transitions.</em>
 </div>
 <br/>
-As many other AI for Healthcare areas, the major challenge for our research is the lack of very large datasets. While this could be alleviated by investing money in large-scale dataset collections, as a researcher I need to further think about solving the unsolved research questions exist in the task using such data. In the past few years, efforts were made developing models to process the movement data, with a trend to gradually expose the model to the biomechanical structure of the skeleton-like movement data, as shown in the figure below. It should be mentioned that such data was collected with a full-body motion capture suit, comprising 18 IMUs. While this increases the mobility of the system in comparison to camera-based ones, we need to make it more comfortable and affordable, e.g. an outfit for daily use.
+
+### 2. 从穿戴式动捕到深度学习模型
+
+与众多 `AI for Healthcare` 领域一样，我们研究面临的主要挑战是缺乏超大规模的数据集。虽然可以通过投入大量资金收集数据来缓解这一问题，但作为一名研究人员，我需要进一步思考如何利用现有数据解决该任务中尚未被攻克的研究难题。
+
+在过去的几年中，我们在开发处理运动数据的模型方面做出了许多努力，其趋势是逐渐让模型接触到类似骨骼运动数据的生物力学结构 (biomechanical structure)，如下图所示。需要指出的是，这些数据是通过一套包含 18 个 `IMUs` 的全身动作捕捉套装收集的。虽然与基于摄像头的系统相比，这增加了系统的移动性，但我们需要使其变得更加舒适和经济实惠，例如将其转变为日常穿着的服装。
+
 <br/>
 <br/>
 <div class="row justify-content-sm-center">
@@ -45,7 +58,15 @@ As many other AI for Healthcare areas, the major challenge for our research is t
     <em>The development of models tackling movement data.</em>
 </div>
 <br/>
-In the latest work of us, we managed to establish accurate PBD using the continuous data shown above. In order to achieve this, two efforts were made: i) alleviating class imbalances during training with CFCC loss function adapted from object detection literature; ii) leveraging human activity recognition (HAR) as a way to contextualize PBD. An overview of our proposed architecture is shown below. For the first time, the recognition of activity types and detection of affective movement behaviors (e.g., protective behavior in our case) are combined. From a broader perspective, this work shall shed some light on future studies working on body movement sensing for affective and medical applications.
+
+### 3. 联合活动识别与行为检测 (HAR-PBD)
+
+在我们的最新工作中，我们成功利用上述连续数据建立了准确的 PBD 模型。为了实现这一目标，我们做出了两方面的努力：
+* 借鉴目标检测 (Object detection) 领域的 `CFCC loss` 函数，缓解了训练过程中的类别不平衡 (Class imbalances) 问题；
+* 利用 `Human activity recognition` (HAR) 为 PBD 提供上下文信息。
+
+我们提出的架构概览如下图所示。这是**首次**将活动类型识别 (recognition of activity types) 与情感运动行为检测 (detection of affective movement behaviors，例如我们案例中的保护性行为) 结合起来。从更广阔的视角来看，这项工作将为未来致力于将身体运动传感应用于情感和医疗领域的研究提供启发。
+
 <br/>
 <br/>
 <div class="row justify-content-sm-center">
@@ -57,55 +78,7 @@ In the latest work of us, we managed to establish accurate PBD using the continu
     <em>The proposed HAR-PBD architecture. By default, using the same data input, the HAR module is pre-trained with activity labels and frozen during training of the PBD module with behavior labels.</em>
 </div>
 <br/>
+
 Please refer to the [publication](https://wangchongyang.ai/publications/){:target="\_blank"} page for details of the research and our achievements so far.
 
 Written on April 9th, 2021, when my first IMWUT paper was accepted.
-
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-``` -->
