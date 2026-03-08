@@ -27,7 +27,7 @@ His research focus on technical HCI, ubiquitous computing, and smart healthcare.
 
 <!-- 本人预计将在[四川大学华西医院](https://www.wchscu.cn/bnhx.html#page1){:target="\_blank"}招收医工结合方向的硕士研究生，敬请关注。 -->
 
-<img src="/assets/img/WCHSCU.png" width="70" height="30">  ←  <img src="/assets/img/tsinghua.svg" width="30" height="30">  ←  <img src="/assets/img/UCL2.png" width="24" height="30">  ←  <img src="/assets/img/SWU.png" width="30" height="30">
+<img src="/assets/img/WCHSCU.png" width="70" height="30">  ←  <img src="/assets/img/tsinghua.png" width="30" height="30">  ←  <img src="/assets/img/UCL2.png" width="24" height="30">  ←  <img src="/assets/img/SWU.png" width="30" height="30">
 
 <!-- He was awarded two prestigious scholarships from UCL to carry out his PhD studies on the topic of developing new body sensing technology to support chronic pain physical rehabilitation. -->
 
