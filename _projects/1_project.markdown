@@ -7,13 +7,13 @@ importance: 1
 category: research
 ---
 
-Currently, the mainstream treatment for `chronic pain` (CP) relies on physical rehabilitation training organized by physiotherapists in clinics. During rehabilitation, physiotherapists observe the CP patients' movement behaviors and provide verbal encouragement, post-hoc feedback, and interventions. Here, movement behaviors such as **guarding**, **stiffness**, **hesitation**, **the use of support**, and **jerky motion** are collectively referred to as **protective behavior**. CP patients tend to adopt these protective behaviors due to fear of pain and injury. Therefore, inferring the physiological and psychological states of these patients is highly valuable information for physiotherapists as well as for building **artificial systems**.
+Currently, the mainstream treatment for chronic pain (CP) relies on physical rehabilitation training organized by physiotherapists in clinics. During rehabilitation, physiotherapists observe the CP patients' movement behaviors and provide verbal encouragement, post-hoc feedback, and interventions. Here, movement behaviors such as **guarding**, **stiffness**, **hesitation**, **the use of support**, and **jerky motion** are collectively referred to as **protective behavior**. CP patients tend to adopt these protective behaviors due to fear of pain and injury. Therefore, inferring the physiological and psychological states of these patients is highly valuable information for physiotherapists as well as for building **artificial systems**.
 
 The figure below displays examples of avatars converted from the movement data of healthy individuals and CP patients. Can you tell the difference?
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{'/assets/img/avatars_2.png' | relative_url }}" alt="" title="Avatar examples"/>
+        <img class="img-fluid d-block mx-auto" src="{{'/assets/img/avatars_2.png' | relative_url }}" alt="" title="Avatar examples"/>
     </div>
 </div>
 <div class="caption">
@@ -28,7 +28,7 @@ As a significant step toward building a Virtual Physiotherapist for daily use, m
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{'/assets/img/sequence_2.png' | relative_url }}" alt="" title="Data Sequence Example"/>
+        <img class="img-fluid d-block mx-auto" src="{{'/assets/img/sequence_2.png' | relative_url }}" alt="" title="Data Sequence Example"/>
     </div>
 </div>
 <div class="caption">
@@ -43,7 +43,7 @@ In recent years, we have made many efforts to develop models for processing move
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{'/assets/img/models.png' | relative_url }}" alt="" title="our models"/>
+        <img class="img-fluid d-block mx-auto" src="{{'/assets/img/models.png' | relative_url }}" alt="" title="our models"/>
     </div>
 </div>
 <div class="caption">
@@ -60,7 +60,7 @@ An overview of our proposed architecture is shown in the figure below. This is t
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{'/assets/img/IMWUT_1.png' | relative_url }}" alt="" title="the proposed architecture"/>
+        <img class="img-fluid d-block mx-auto" src="{{'/assets/img/IMWUT_1.png' | relative_url }}" alt="" title="the proposed architecture"/>
     </div>
 </div>
 <div class="caption">
