@@ -23,7 +23,7 @@ We comprehensively evaluated the system on a multi-scenario dataset involving 10
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid" src="{{'/assets/img/IMWUT_2.png' | relative_url }}" alt="UbiPhysio Framework" title="UbiPhysio"/>
+        <img class="img-fluid d-block mx-auto" src="{{'/assets/img/IMWUT_2.png' | relative_url }}" alt="UbiPhysio Framework" title="UbiPhysio"/>
     </div>
 </div>
 <div class="caption">
