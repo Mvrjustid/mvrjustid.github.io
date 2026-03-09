@@ -40,7 +40,7 @@ This `Location-agnostic` intelligent tracking approach not only significantly im
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        <img class="img-fluid" src="{{'/assets/img/CHI_1.png' | relative_url }}" alt="PepperPose System" title="PepperPose"/>
+        <img class="img-fluid  d-block mx-auto" src="{{'/assets/img/CHI_1.png' | relative_url }}" alt="PepperPose System" title="PepperPose"/>
     </div>
 </div>
 <div class="caption">
