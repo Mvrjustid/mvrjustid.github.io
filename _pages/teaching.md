@@ -75,6 +75,7 @@ Seminar, Department of Computer Science, University of Oxford, Oxford, 12 2018.
 
 #### Supervision
 Manqiu Liao (HKUST-GZ), Ruiqian Wang (UPenn.), Yufei Ren (SCU), Yao Yu (CUHK-SZ), Hao Wu (ZJU), Chenyang Li (THU), Shiming Wang (NUS), Yuanzhao Dai (BNU), Zirui Yan (SJTU), Huina Piao (NUS), SCU-THU Joint Research Project, 2025, in progress.
+One paper published in '[IMWUT/Ubicomp'27](https://wangchongyang.ai){:target="\_blank"}'.
 
 Manqiu Liao (BUPT), Tianyi Xia (THU), Yifan Wang (CityU), Lexi Chen (PKU), ACSP program, 2024.\\
 One paper published in '[UIST'25](https://wangchongyang.ai/assets/pdf/BalloonBot-UIST25.pdf){:target="\_blank"}'.
