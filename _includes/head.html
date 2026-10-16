@@ -3,7 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <title>{% if site.title == "blank" %}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
-<meta name="description" content="{{ site.description }}">
+<meta name="description" content="{{ page.seo_description | default: page.description | default: site.description | strip_html | strip | escape }}">
 
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>

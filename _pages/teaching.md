@@ -3,6 +3,7 @@ layout: page
 permalink: /activities/
 title: Activities
 description:
+seo_description: Academic service, invited talks, teaching, and student supervision by Chongyang Wang.
 nav: true
 ---
 ---
@@ -67,25 +68,25 @@ Seminar, Department of Computer Science, University of Oxford, Oxford, 12 2018.
 ---
 
 #### Teaching assistant
-[COMP0053](https://www.ucl.ac.uk/module-catalogue/modules/affective-computing-and-human-robot-interaction/COMP0053){:target="\_blank"}, Affective Computing and Human-Robot Interaction (AC-HRI), a post-graduate taught course at UCL, 2017-2021.
+[COMP0053](https://www.ucl.ac.uk/module-catalogue/modules/affective-computing-and-human-robot-interaction/COMP0053){:target="_blank" rel="noopener"}, Affective Computing and Human-Robot Interaction (AC-HRI), a post-graduate taught course at UCL, 2017-2021.
 \\
-[PSYC0021](https://www.ucl.ac.uk/module-catalogue/modules/affective-interaction/PSYC0021){:target="\_blank"}, Affective Interaction, a post-graduate taught course at UCL, occasionally 2017-2021.
+[PSYC0021](https://www.ucl.ac.uk/module-catalogue/modules/affective-interaction/PSYC0021){:target="_blank" rel="noopener"}, Affective Interaction, a post-graduate taught course at UCL, occasionally 2017-2021.
 
 ---
 
 #### Supervision
 Manqiu Liao (HKUST-GZ), Ruiqian Wang (UPenn.), Yufei Ren (SCU), Yao Yu (CUHK-SZ), Hao Wu (ZJU), Chenyang Li (THU), Shiming Wang (NUS), Yuanzhao Dai (BNU), Zirui Yan (SJTU), Huina Piao (NUS), SCU-THU Joint Research Project, 2025, in progress.
-One paper published in '[IMWUT/Ubicomp'27](https://wangchongyang.ai){:target="\_blank"}'.
+One paper published in '[IMWUT/Ubicomp'27](https://wangchongyang.ai/assets/pdf/ReTell_IMWUT2027_Final_Submission.pdf){:target="_blank" rel="noopener"}'.
 
 Manqiu Liao (BUPT), Tianyi Xia (THU), Yifan Wang (CityU), Lexi Chen (PKU), ACSP program, 2024.\\
-One paper published in '[UIST'25](https://wangchongyang.ai/assets/pdf/BalloonBot-UIST25.pdf){:target="\_blank"}'.
+One paper published in '[UIST'25](https://wangchongyang.ai/assets/pdf/BalloonBot-UIST25.pdf){:target="_blank" rel="noopener"}'.
 
 Zixuan Zhao, Gaorong Liang, Student Research Training (SRT) Project, THU, 2024, in progress.
 
 Lingxiao Zhong (w/ University of Michigan), Siqi Zheng (w/ GIX, THU-UW), Chi Zhang, Student Research Training (SRT) Project, THU, 2023.\\
-Two papers published in '[CHI'24](https://wangchongyang.ai/assets/pdf/PepperPose_CHI.pdf){:target="\_blank"}' and '[IMWUT/UbiComp'24](https://wangchongyang.ai/assets/pdf/UbiPhysio_IMWUT.pdf){:target="\_blank"}'.
+Two papers published in '[CHI'24](https://wangchongyang.ai/assets/pdf/PepperPose_CHI.pdf){:target="_blank" rel="noopener"}' and '[IMWUT/UbiComp'24](https://wangchongyang.ai/assets/pdf/UbiPhysio_IMWUT.pdf){:target="_blank" rel="noopener"}'.
 
 Cen Guanting (w/ Huawei), M.Sc project, UCL, 2021. Awarded with Distinction.\\
-'[Exploring Multimodal Fusion for Continuous Protective Behavior Detection](https://wangchongyang.ai/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf){:target="\_blank"}', a outcome of the project is accepted to ACII'22.
+'[Exploring Multimodal Fusion for Continuous Protective Behavior Detection](https://wangchongyang.ai/assets/pdf/Exploring_Multimodal_Fusion_for_Protective_Behavior_Detection_in_Continuous_Data_ACII2022.pdf){:target="_blank" rel="noopener"}', a outcome of the project is accepted to ACII'22.
 
 Yi Kexin, B.Eng project, HUST, 2021.
