@@ -33,7 +33,7 @@ Journal of Signal Processing Systems
 
 **Conference:**
 \\
-Ubicomp, CHI (AC for 2026, LBW AC for 2025), ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
+Ubicomp, CHI (AC for 27, 26; LBW AC for 2025), ICRA, ACII, ICMI, SmartCOMP, Mobicomp, PerCom
 
 ---
 
@@ -75,7 +75,7 @@ Seminar, Department of Computer Science, University of Oxford, Oxford, 12 2018.
 ---
 
 #### Supervision
-Manqiu Liao (HKUST-GZ), Ruiqian Wang (UPenn.), Yufei Ren (SCU), Yao Yu (CUHK-SZ), Hao Wu (ZJU), Chenyang Li (THU), Shiming Wang (NUS), Yuanzhao Dai (BNU), Zirui Yan (SJTU), Huina Piao (NUS), SCU-THU Joint Research Project, 2025, in progress.
+Manqiu Liao (HKUST-GZ), Ruiqian Wang (UPenn.), Yufei Ren (SCU), Yao Yu (CUHK-SZ), Hao Wu (ZJU), Chenyang Li (THU), Shiming Wang (NUS), Yuanzhao Dai (BNU), Zirui Yan (SJTU), Huina Piao (NUS), SCU-THU Joint Research Project, 2025, in progress.\\
 One paper published in '[IMWUT/Ubicomp'27](https://wangchongyang.ai/assets/pdf/ReTell_IMWUT2027_Final_Submission.pdf){:target="_blank" rel="noopener"}'.
 
 Manqiu Liao (BUPT), Tianyi Xia (THU), Yifan Wang (CityU), Lexi Chen (PKU), ACSP program, 2024.\\
