@@ -93,8 +93,8 @@ nav: true
 
 <div class="author">
   
-  <a>Wang, Yufeng</a>,
-  <a>Xu, Yuan</a>,
+  <a>Wang, Yufeng</a><sup title="Equal contribution" aria-label="Equal contribution">*</sup>,
+  <a>Xu, Yuan</a><sup title="Equal contribution" aria-label="Equal contribution">*</sup>,
   <a>Nikolova, Anastasia</a>,
   <a>Wang, Yuxuan</a>,
   <a>Wang, Jianyu</a>,
